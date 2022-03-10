@@ -390,7 +390,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Warming up the keyboard",
-        "excerpt":"TheMadBlogger might be warming up his keyboard once again, if so, the topic might be another dealership rant, just like the rant that started TheMadBlogger.org, TMB's dealings with SouthTown Dodge. ","categories": [],
+        "excerpt":"TheMadBlogger might be warming up his keyboard once again, if so, the topic might be another dealership rant, just like the rant that started TheMadBlogger.com, TMB's dealings with SouthTown Dodge. ","categories": [],
         "tags": [],
         "url": "/Warming-up-the-keyboard",
         "teaser": null
@@ -486,7 +486,7 @@ var store = [{
         "teaser": null
       },{
         "title": "The irony of a car theft",
-        "excerpt":"Check out this story in the St. Louis Post Dispatch about 6 car thieves.  http://www.stltoday.com/stltoday/news/stories.nsf/stlouiscitycounty/story/A29AC63FA4D998E38625751100143735?OpenDocument  Two seperate cars, 6 people total, crash into each other and 2 of them die. Irony? Justice? What do you think?    ","categories": [],
+        "excerpt":"Check out this story in the St. Louis Post Dispatch about 6 car thieves.  http://www.stltoday.com/stltoday/news/stories.nsf/stlouiscitycounty/story/A29AC63FA4D998E38625751100143735?OpenDocument  Two separate cars, 6 people total, crash into each other and 2 of them die. Irony? Justice? What do you think?   ","categories": [],
         "tags": [],
         "url": "/The-irony-of-a-car-theft",
         "teaser": null
@@ -525,6 +525,12 @@ var store = [{
         "excerpt":"So I've been trying for 4+ months now to get some customer service from Injen Systems for the Super SES Exhaust on my Nissan 350z that has a massive leak in it. Back in August I received a response from Injen Hi Chris, Can you send me a picture of...","categories": [],
         "tags": [],
         "url": "/Injen-Systems-Customer-Service-Sucks",
+        "teaser": null
+      },{
+        "title": "Movie Theater in Wildwood, Missouri",
+        "excerpt":"Update After 1 month, we finally got B&amp;B Theaters to process a proper refund. Unsure if we will ever go back. Original Post There is one movie theater in Wildwood Missouri, and based on poor customer service experiences with B&amp;B Theaters in Wildwood, it is not our recommendation that you...","categories": [],
+        "tags": [],
+        "url": "/wildwood-missouri-movie-theater/",
         "teaser": null
       },{
         "title": "The Good Cook Classic Meat Thermometer NSF Approved SUCKS",
