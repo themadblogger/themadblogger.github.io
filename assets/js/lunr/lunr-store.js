@@ -276,13 +276,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Adult Swim, could you market any better?",
-        "excerpt":"All this ranting about adult swim in the news industry, TMB actually thinks it was a great marketing idea. Even if turning broadcasting has to pay fines in Boston for the chaos that insued, they probably couldn't have spent better money on any other marketing campaign. News coverage EVERYWHERE. Good...","categories": [],
+        "excerpt":"All this ranting about adult swim in the news industry, TMB actually thinks it was a great marketing idea. Even if turning broadcasting has to pay fines in Boston for the chaos that insued, they probably couldn’t have spent better money on any other marketing campaign. News coverage EVERYWHERE. Good...","categories": [],
         "tags": [],
         "url": "/Adult-Swim-could-you-market-any-better",
         "teaser": null
       },{
         "title": "On Ebay, don't sell to valorxnemo",
-        "excerpt":"Read more about this user called valorxnemo on one of&nbsp;The Mad Blogger's&nbsp;previous blog posts! He's a fraud, don't sell him anything, else he may not pay you.  &nbsp; ","categories": [],
+        "excerpt":"Read more about this user called valorxnemo on one of&nbsp;The Mad Blogger's&nbsp;previous blog posts! He's a fraud, don't sell him anything, else he may not pay you.  ","categories": [],
         "tags": [],
         "url": "/On-Ebay-dont-sell-to-valorxnemo",
         "teaser": null

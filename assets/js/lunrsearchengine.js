@@ -363,12 +363,12 @@ var documents = [{
     "id": 72,
     "url": "/On-Ebay-dont-sell-to-valorxnemo",
     "title": "On Ebay, don't sell to valorxnemo",
-    "body": "2007/02/01 - Read more about this user called valorxnemo on one of&nbsp;The Mad Blogger's&nbsp;previous blog posts! He's a fraud, don't sell him anything, else he may not pay you. &nbsp; "
+    "body": "2007/02/01 - Read more about this user called valorxnemo on one of&nbsp;The Mad Blogger's&nbsp;previous blog posts! He's a fraud, don't sell him anything, else he may not pay you. "
     }, {
     "id": 73,
     "url": "/Adult-Swim-could-you-market-any-better",
     "title": "Adult Swim, could you market any better?",
-    "body": "2007/02/01 - All this ranting about adult swim in the news industry, TMB actually thinks it was a great marketing idea. Even if turning broadcasting has to pay fines in Boston for the chaos that insued, they probably couldn't have spent better money on any other marketing campaign. News coverage EVERYWHERE. Good call ATHF "
+    "body": "2007/02/01 - All this ranting about adult swim in the news industry, TMB actually thinks it was a great marketing idea. Even if turning broadcasting has to pay fines in Boston for the chaos that insued, they probably couldn’t have spent better money on any other marketing campaign. News coverage EVERYWHERE. Good call ATHF "
     }, {
     "id": 74,
     "url": "/Charter-Communications-Still-Sucks",
