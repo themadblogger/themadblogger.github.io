@@ -73,12 +73,12 @@ comments:
     # (!) ENCRYPTED
     #
     # Mailgun API key
-    # apiKey: ""
+    # apiKey: "
 
     # (!) ENCRYPTED
     #
     # Mailgun domain (encrypted)
-    # domain: ""
+    # domain: "
 
   # (*) REQUIRED
   #

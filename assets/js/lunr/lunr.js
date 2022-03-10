@@ -96,7 +96,7 @@ lunr.utils.warn = (function (global) {
  */
 lunr.utils.asString = function (obj) {
   if (obj === void 0 || obj === null) {
-    return ""
+    return "
   } else {
     return obj.toString()
   }
@@ -338,7 +338,7 @@ lunr.idf = function (posting, documentCount) {
  * @param {object} [metadata={}] - Metadata associated with this token.
  */
 lunr.Token = function (str, metadata) {
-  this.str = str || ""
+  this.str = str || "
   this.metadata = metadata || {}
 }
 
@@ -971,12 +971,12 @@ lunr.stemmer = (function(){
 
     step3list = {
       "icate" : "ic",
-      "ative" : "",
+      "ative" : ",
       "alize" : "al",
       "iciti" : "ic",
       "ical" : "ic",
-      "ful" : "",
-      "ness" : ""
+      "ful" : ",
+      "ness" : "
     },
 
     c = "[^aeiou]",          // consonant
@@ -1046,7 +1046,7 @@ lunr.stemmer = (function(){
       re = re_mgr0;
       if (re.test(fp[1])) {
         re = re_1b_2;
-        w = w.replace(re,"");
+        w = w.replace(re,");
       }
     } else if (re2.test(w)) {
       var fp = re2.exec(w);
@@ -1058,7 +1058,7 @@ lunr.stemmer = (function(){
         re3 = re3_1b_2;
         re4 = re4_1b_2;
         if (re2.test(w)) { w = w + "e"; }
-        else if (re3.test(w)) { re = re_1b_2; w = w.replace(re,""); }
+        else if (re3.test(w)) { re = re_1b_2; w = w.replace(re,"); }
         else if (re4.test(w)) { w = w + "e"; }
       }
     }
@@ -1131,7 +1131,7 @@ lunr.stemmer = (function(){
     re2 = re_mgr1;
     if (re.test(w) && re2.test(w)) {
       re = re_1b_2;
-      w = w.replace(re,"");
+      w = w.replace(re,");
     }
 
     // and turn initial Y back to y
@@ -1625,7 +1625,7 @@ lunr.TokenSet.prototype.toArray = function () {
   var words = []
 
   var stack = [{
-    prefix: "",
+    prefix: ",
     node: this
   }]
 
@@ -1766,7 +1766,7 @@ lunr.TokenSet.prototype.intersect = function (b) {
   return output
 }
 lunr.TokenSet.Builder = function () {
-  this.previousWord = ""
+  this.previousWord = "
   this.root = new lunr.TokenSet
   this.uncheckedNodes = []
   this.minimizedNodes = {}
@@ -2913,7 +2913,7 @@ lunr.Query.prototype.clause = function (clause) {
   }
 
   if ((clause.wildcard & lunr.Query.wildcard.TRAILING) && (clause.term.slice(-1) != lunr.Query.wildcard)) {
-    clause.term = "" + clause.term + "*"
+    clause.term = " + clause.term + "*"
   }
 
   if (!('presence' in clause)) {
