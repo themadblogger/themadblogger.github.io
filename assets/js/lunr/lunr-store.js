@@ -24,7 +24,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Charter Cable, Internet, Telephone Customer Service Blows",
-        "excerpt":"If you&#39;re looking to get Digital Cable, Internet or Phone Service from Charter Communications, The Mad Blogger would HIGHLY recommend looking to another provider! TMB has had horrible experiences with Charter over the past few months. To read about some of them check out this link. Just so you know...","categories": [],
+        "excerpt":"If you&#39;re looking to get Digital Cable, Internet or Phone Service from Charter Communications, The Mad Blogger would HIGHLY recommend looking to another provider! TMB has had horrible experiences with Charter over the past few months. Just so you know TMB isn&#39;t the only one complaining check out this recent...","categories": [],
         "tags": [],
         "url": "/Charter-Cable-Internet-Telephone-Customer-Service-Blows",
         "teaser": null
@@ -186,7 +186,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Want to get an Xbox 360 for $100?",
-        "excerpt":"If you do, head on over to Amazon.com! Wait, can&#39;t find the link to buy them for $100? That&#39;s because you have to vote on one of four deals that Amazon.com will have starting next Thursday at 2pm. Be sure to vote for the Xbox 360 deal on the &quot;vote&quot;...","categories": [],
+        "excerpt":"If you do, head on over to Amazon.com! Wait, can't find the link to buy them for $100? That's because you have to vote on one of four deals that Amazon.com will have starting next Thursday at 2pm. Be sure to vote for the Xbox 360 deal on the \"&quot;\"vote\"...","categories": [],
         "tags": [],
         "url": "/Want-to-get-an-Xbox-360-for-100",
         "teaser": null

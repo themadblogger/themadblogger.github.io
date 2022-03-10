@@ -453,7 +453,7 @@ var documents = [{
     "id": 90,
     "url": "/Want-to-get-an-Xbox-360-for-100",
     "title": "Want to get an Xbox 360 for $100?",
-    "body": "2006/11/17 - If you do, head on over to Amazon. com! Wait, can't find the link to buy them for $100? That's because you have to vote on one of four deals that Amazon. com will have starting next Thursday at 2pm. Be sure to vote for the Xbox 360 deal on the  vote  section of Amazon. com "
+    "body": "2006/11/17 - If you do, head on over to Amazon. com! Wait, can’t find the link to buy them for $100? That’s because you have to vote on one of four deals that Amazon. com will have starting next Thursday at 2pm. Be sure to vote for the Xbox 360 deal on the “ “vote” section of Amazon. com "
     }, {
     "id": 91,
     "url": "/Southtown-Dodge",
@@ -588,7 +588,7 @@ var documents = [{
     "id": 117,
     "url": "/Charter-Cable-Internet-Telephone-Customer-Service-Blows",
     "title": "Charter Cable, Internet, Telephone Customer Service Blows",
-    "body": "2006/08/29 - If you&#39;re looking to get Digital Cable, Internet or Phone Service from Charter Communications, The Mad Blogger would HIGHLY recommend looking to another provider! TMB has had horrible experiences with Charter over the past few months. To read about some of them check out this link. Just so you know TMB isn&#39;t the only one complaining check out this recent article in the St. Louis Post Dispatch! Moral of the story? Charter Sucks! Use someone else! Though, TMB also doesn&#39;t recommend Directv, more on that story later! "
+    "body": "2006/08/29 - If you&#39;re looking to get Digital Cable, Internet or Phone Service from Charter Communications, The Mad Blogger would HIGHLY recommend looking to another provider! TMB has had horrible experiences with Charter over the past few months. Just so you know TMB isn&#39;t the only one complaining check out this recent article in the St. Louis Post Dispatch! Moral of the story? Charter Sucks! Use someone else! Though, TMB also doesn&#39;t recommend Directv, more on that story later! "
     }, {
     "id": 118,
     "url": "/Zapatas-Mexican-Restaurant-on-Manchester-Road-in-Missouri",
