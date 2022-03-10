@@ -18,13 +18,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Zapatas Mexican Restaurant on Manchester Road in Missouri",
-        "excerpt":"If you&#39;re looking for some good Mexican food, DON&#39;T go to Zapatas on Manchester Road! The Mad Blogger&nbsp;went&nbsp;w/ the office the day they opened, for lunch, to give them a shot. The food was horrible, no one enjoyed their meals. TMB figured, maybe, just maybe, that was just a bad...","categories": [],
+        "excerpt":"If you&#39;re looking for some good Mexican food, DON&#39;T go to Zapatas on Manchester Road! The Mad Blogger went w/ the office the day they opened, for lunch, to give them a shot. The food was horrible, no one enjoyed their meals. TMB figured, maybe, just maybe, that was just...","categories": [],
         "tags": [],
         "url": "/Zapatas-Mexican-Restaurant-on-Manchester-Road-in-Missouri",
         "teaser": null
       },{
         "title": "Charter Cable, Internet, Telephone Customer Service Blows",
-        "excerpt":"If you&#39;re looking to get Digital Cable, Internet or Phone Service from Charter Communications, The Mad Blogger would HIGHLY recommend looking to another provider! TMB has had horrible experiences with Charter over the past few months. To read about some of them check out this link.&nbsp;Just so you know TMB...","categories": [],
+        "excerpt":"If you&#39;re looking to get Digital Cable, Internet or Phone Service from Charter Communications, The Mad Blogger would HIGHLY recommend looking to another provider! TMB has had horrible experiences with Charter over the past few months. To read about some of them check out this link. Just so you know...","categories": [],
         "tags": [],
         "url": "/Charter-Cable-Internet-Telephone-Customer-Service-Blows",
         "teaser": null
@@ -48,7 +48,7 @@ var store = [{
         "teaser": null
       },{
         "title": "UPS Insurance Sucks",
-        "excerpt":"Just because&nbsp;The Mad Blogger is still bitter about things that other companies have done in the past TMB&nbsp;needed to bring up some old posts to rant about. 1&nbsp;http://www.solo2.org/home/aid/88&nbsp; 2&nbsp;http://www.solo2.org/home/aid/45&nbsp; 3&nbsp;http://www.solo2.org/home/aid/25&nbsp; 4&nbsp;http://www.solo2.org/home/aid/24 5&nbsp;http://www.solo2.org/home/aid/20 6&nbsp;http://www.solo2.org/home/aid/17&nbsp; TMB would highly suggest using another shipping company, anything but UPS. TMB goes out of his way...","categories": [],
+        "excerpt":"Just because The Mad Blogger is still bitter about things that other companies have done in the past TMB needed to bring up some old posts to rant about. 1 http://www.solo2.org/home/aid/88 2 http://www.solo2.org/home/aid/45 3 http://www.solo2.org/home/aid/25 4 http://www.solo2.org/home/aid/24 5 http://www.solo2.org/home/aid/20 6 http://www.solo2.org/home/aid/17 TMB would highly suggest using another shipping company, anything...","categories": [],
         "tags": [],
         "url": "/UPS-Insurance-Sucks",
         "teaser": null
@@ -60,7 +60,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Is Viewpoint Spyware? Viewpoint Sucks!",
-        "excerpt":"Damn skippy Viewpoint is Spyware.&nbsp;TMB doesn&#39;t care if they don&#39;t think it is. It gets installed, without your knowing, then tries to update itself via the internet. In the eyes of The Mad Blogger, VIEWPOINT IS SPYWARE. Anyone who downloads and installs AOL Instant Messenger, AIM, will get Viewpoint. You...","categories": [],
+        "excerpt":"Damn skippy Viewpoint is Spyware. TMB doesn&#39;t care if they don&#39;t think it is. It gets installed, without your knowing, then tries to update itself via the internet. In the eyes of The Mad Blogger, VIEWPOINT IS SPYWARE. Anyone who downloads and installs AOL Instant Messenger, AIM, will get Viewpoint....","categories": [],
         "tags": [],
         "url": "/Is-Viewpoint-Spyware-Viewpoint-Sucks",
         "teaser": null
@@ -78,7 +78,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Don't buy a Shadow Trailer in Ocala Florida",
-        "excerpt":"The Mad Blogger wouldn’t recommend buying a Shadow Trailer for Shadow Trailers in Ocala Florida or from the Ocala Trailer Company.   If you’ve had a bad experience with Shadow Trailers, this is your post, give TMB some love.   ","categories": [],
+        "excerpt":"The Mad Blogger wouldn’t recommend buying a Shadow Trailer for Shadow Trailers in Ocala Florida or from the Ocala Trailer Company.   If you’ve had a bad experience with Shadow Trailers, this is your post, give TMB some love.   ","categories": [],
         "tags": [],
         "url": "/Dont-buy-a-Shadow-Trailer-in-Ocala-Florida",
         "teaser": null
@@ -96,7 +96,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Sarah Silverman, what's the deal?",
-        "excerpt":"The Mad Blogger wants to know, what's the deal with Sarah Silverman?   She is NOT funny? She's annoying as hell, and definitely not funny for a comedian. She's on Leno tonight, and making TMB want to change it to Letterman!  ","categories": [],
+        "excerpt":"The Mad Blogger wants to know, what's the deal with Sarah Silverman?   She is NOT funny? She's annoying as hell, and definitely not funny for a comedian. She's on Leno tonight, and making TMB want to change it to Letterman!  ","categories": [],
         "tags": [],
         "url": "/Sarah-Silverman-whats-the-deal",
         "teaser": null
@@ -132,13 +132,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Nemofang, we found you fhy729241025 ",
-        "excerpt":"It&#39;s amazing what the internet will get you.   &nbsp;Here&#39;s a collection of items we&#39;ve been able to dig up   &nbsp;http://www.photolink.com.tw/cgi-bin/ShowPhoto?photo_id=fhy729241025&amp;albumIDs=411b4e41&amp;photoID=41b7873d   Here&#39;s his landlord information   http://offcampus.osu.edu/property_details.asp?PropertyID=10800&amp;type=lease   More photos   http://www.photolink.com.tw/cgi-bin/ShowAlbum?albumIDs=411b4e41&amp;photo_id=fhy729241025   &nbsp;   http://www.wretch.cc/mypage/valorxnemo  ","categories": [],
+        "excerpt":"It&#39;s amazing what the internet will get you.    Here&#39;s a collection of items we&#39;ve been able to dig up    http://www.photolink.com.tw/cgi-bin/ShowPhoto?photo_id=fhy729241025&amp;albumIDs=411b4e41&amp;photoID=41b7873d   Here&#39;s his landlord information   http://offcampus.osu.edu/property_details.asp?PropertyID=10800&amp;type=lease   More photos   http://www.photolink.com.tw/cgi-bin/ShowAlbum?albumIDs=411b4e41&amp;photo_id=fhy729241025       http://www.wretch.cc/mypage/valorxnemo  ","categories": [],
         "tags": [],
         "url": "/Nemofang-we-found-you-fhy729241025-",
         "teaser": null
       },{
         "title": "Yankees Suck!",
-        "excerpt":"Coming from a Red Sox fan,&nbsp;TMB thinks the Yankess Suck! Go Detroit!    No one in America, outside the city of New York, wants to see a Subway Series.   ","categories": [],
+        "excerpt":"Coming from a Red Sox fan, TMB thinks the Yankess Suck! Go Detroit!   No one in America, outside the city of New York, wants to see a Subway Series.  ","categories": [],
         "tags": [],
         "url": "/Yankees-Suck",
         "teaser": null
@@ -162,7 +162,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Windows Vista blog and coming soon!",
-        "excerpt":"The Mad Blogger is excited about Windows Vista! TMB has been running Vista on a machine for a few weeks now and is loving it! TMB Can&#39;t wait for the final release! Here&#39;s the new and improved Windows Vista Blog!&nbsp;Look at that, it&#39;s running on the same software as TheMadBlogger.org,...","categories": [],
+        "excerpt":"The Mad Blogger is excited about Windows Vista! TMB has been running Vista on a machine for a few weeks now and is loving it! TMB Can&#39;t wait for the final release! Here&#39;s the new and improved Windows Vista Blog! Look at that, it&#39;s running on the same software as...","categories": [],
         "tags": [],
         "url": "/Windows-Vista-blog-and-coming-soon",
         "teaser": null
@@ -252,13 +252,13 @@ var store = [{
         "teaser": null
       },{
         "title": "XBox 360 to get IPTV?",
-        "excerpt":"What's this? The XBox 360 may be getting IPTV! CES Is coming up this week. It could be a very interesting year for 2007!  &nbsp; ","categories": [],
+        "excerpt":"What's this? The XBox 360 may be getting IPTV! CES Is coming up this week. It could be a very interesting year for 2007!    ","categories": [],
         "tags": [],
         "url": "/XBox-360-to-get-IPTV",
         "teaser": null
       },{
         "title": "Charter Communications is staffed by Idiots",
-        "excerpt":"Wednesday The Mad Blogger&nbsp;got Charter setup at the new house, they transfered the 10 meg internet service, and HD cable over. Internet came up, cable came up. With multiple speedtests throughout the day it was found that the speed was not 10 meg service, it was around 4meg with 256k...","categories": [],
+        "excerpt":"Wednesday The Mad Blogger got Charter setup at the new house, they transfered the 10 meg internet service, and HD cable over. Internet came up, cable came up. With multiple speedtests throughout the day it was found that the speed was not 10 meg service, it was around 4meg with...","categories": [],
         "tags": [],
         "url": "/Charter-Communications-is-staffed-by-Idiots",
         "teaser": null
@@ -282,13 +282,13 @@ var store = [{
         "teaser": null
       },{
         "title": "On Ebay, don't sell to valorxnemo",
-        "excerpt":"Read more about this user called valorxnemo on one of&nbsp;The Mad Blogger's&nbsp;previous blog posts! He's a fraud, don't sell him anything, else he may not pay you.  ","categories": [],
+        "excerpt":"Read more about this user called valorxnemo on one of The Mad Blogger's previous blog posts! He's a fraud, don't sell him anything, else he may not pay you.  ","categories": [],
         "tags": [],
         "url": "/On-Ebay-dont-sell-to-valorxnemo",
         "teaser": null
       },{
         "title": "Post 1 about the Superbowl Ads sucking in 2007",
-        "excerpt":"First off, TMB will be back later with a long blog post about how the super bowl ads sucked this year, but for now, who&nbsp;are these&nbsp;idiots? Todd Behrendt, Dave Doyle, Zack Faigen and Steve Miller, Foxsports never shoulda ditched the work they got from The Sporting News. Here's what they...","categories": [],
+        "excerpt":"First off, TMB will be back later with a long blog post about how the super bowl ads sucked this year, but for now, who are these idiots? Todd Behrendt, Dave Doyle, Zack Faigen and Steve Miller, Foxsports never shoulda ditched the work they got from The Sporting News. Here's...","categories": [],
         "tags": [],
         "url": "/Post-1-about-the-Superbowl-Ads-sucking-in-2007",
         "teaser": null
@@ -318,7 +318,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Cho Sueng-Hui Plays Cho Seung-Hui",
-        "excerpt":"Here is a blog post from a classmate of Cho Seung-Hui, and links to two plays he wrote last fall in a class at VT.  http://newsbloggers.aol.com/2007/04/17/cho-seung-huis-plays/  &nbsp;  Cho Sueng-Hui Plays ","categories": [],
+        "excerpt":"Here is a blog post from a classmate of Cho Seung-Hui, and links to two plays he wrote last fall in a class at VT.  http://newsbloggers.aol.com/2007/04/17/cho-seung-huis-plays/     Cho Sueng-Hui Plays ","categories": [],
         "tags": [],
         "url": "/Cho-Sueng-Hui-Plays-Cho-Seung-Hui",
         "teaser": null
@@ -330,7 +330,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Intuit's TurboTax has problems E-Filing on Tax day!!",
-        "excerpt":"&nbsp;Excerpts of this were pulled from a TMB comment on this blog. &nbsp;The Mad Blogger, being the slacker that he is, tried to file his tax return at the very last minute this evening, only to be greated by an unfriendly message from TurboTax \"The Intuit Electronic Filing Center is...","categories": [],
+        "excerpt":"Excerpts of this were pulled from a TMB comment on this blog. The Mad Blogger, being the slacker that he is, tried to file his tax return at the very last minute this evening, only to be greated by an unfriendly message from TurboTax \"The Intuit Electronic Filing Center is...","categories": [],
         "tags": [],
         "url": "/Intuits-TurboTax-has-problems-E-Filing-on-Tax-day",
         "teaser": null
@@ -342,7 +342,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Who is better, Directv or Dish?",
-        "excerpt":"So The Mad Blogger needs to know, who is better, DirecTV or Dish Network? ","categories": [],
+        "excerpt":"So The Mad Blogger needs to know, who is better, DirecTV or Dish Network?  ProTip: Neither! Don't do satellite TV.  ","categories": [],
         "tags": [],
         "url": "/Who-is-better-Directv-or-Dish",
         "teaser": null
@@ -354,13 +354,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Bo Beuckman Ford Sucks, Actually FORD Sucks too",
-        "excerpt":"So The Mad Blogger is not a big Ford fan. Actually TMB has NEVER been a Ford fan, but TMB's wife owns a 2004 Ford F350, 6.0 liter Diesel. This truck is the biggest POS ever made. It has been to the dealer, Bo Beuckman Ford probably 6-8 times in...","categories": [],
+        "excerpt":"So The Mad Blogger is not a big Ford fan. Actually TMB has NEVER been a Ford fan, but TMB’s wife owns a 2004 Ford F350, 6.0 liter Diesel. This truck is the biggest POS ever made. It has been to the dealer, Bo Beuckman Ford probably 6-8 times in...","categories": [],
         "tags": [],
         "url": "/Bo-Beuckman-Ford-Sucks-Actually-FORD-Sucks-too",
         "teaser": null
       },{
         "title": "Don't go to Glendale Chrysler in St. louis, MO",
-        "excerpt":"A good friend&nbsp;told&nbsp;TheMadBlogger that he had the worst experience you could imagine with Glendale Chrysler, actually you wouldn't believe the story if TMB typed it here!   TMB would highly recommend going to another St. Louis Chrysler Dealership instead of going to Glendale.  Glendale Chrysler Sucks! Shop elsewhere! ","categories": [],
+        "excerpt":"A good friend told TheMadBlogger that he had the worst experience you could imagine with Glendale Chrysler, actually you wouldn’t believe the story if TMB typed it here!   TMB would highly recommend going to another St. Louis Chrysler Dealership instead of going to Glendale.   Glendale Chrysler Sucks! Shop elsewhere!  ","categories": [],
         "tags": [],
         "url": "/Dont-go-to-Glendale-Chrysler-in-St-louis-MO",
         "teaser": null
@@ -378,13 +378,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Chicago Toll Roads, what's the deal?",
-        "excerpt":"What's the deal with all the tollroads in Chicago?&nbsp;Really, why does TMB&nbsp;have to pay to drive on the highways, and then again to get off? Implement a damn property tax Illinois and quit charging people to drive on your roads! ","categories": [],
+        "excerpt":"What’s the deal with all the tollroads in Chicago? Really, why does TMB have to pay to drive on the highways, and then again to get off? Implement a damn property tax Illinois and quit charging people to drive on your roads!  ","categories": [],
         "tags": [],
         "url": "/Chicago-Toll-Roads-whats-the-deal",
         "teaser": null
       },{
         "title": "Opera star Luciano Pavarotti dies",
-        "excerpt":"&nbsp;  His manager, Terri Robson, told the AP in an e-mail statement that Pavarotti died at his home in Modena, Italy, at 5 a.m. local time. ","categories": [],
+        "excerpt":"   His manager, Terri Robson, told the AP in an e-mail statement that Pavarotti died at his home in Modena, Italy, at 5 a.m. local time. ","categories": [],
         "tags": [],
         "url": "/Opera-star-Luciano-Pavarotti-dies",
         "teaser": null
@@ -402,13 +402,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Front License Plate laws in Missouri",
-        "excerpt":"TMB was hounded by a local police officer this morning here in Missouri. Why might you ask? Because TMB's new ride has only one license plate, in the rear. The officer was so excited he ran out of 7-11 and ran to check if the car had both plates. When...","categories": [],
+        "excerpt":"TMB was hounded by a local police officer this morning here in Missouri. Why might you ask? Because TMB’s new ride has only one license plate, in the rear. The officer was so excited he ran out of 7-11 and ran to check if the car had both plates. When...","categories": [],
         "tags": [],
         "url": "/Front-License-Plate-laws-in-Missouri",
         "teaser": null
       },{
         "title": "Kanye West Killed Evil Knievel",
-        "excerpt":"Coincidence that Evil Knievel (Evil Kenievel) just settled a lawsuit with Kanye West? And now he's died? TMB thinks not! Did Kanye West kill Evil Knievel (Evil Kenievel)?   http://www.cnn.com/2007/SHOWBIZ/TV/11/30/obit.knievel/index.html  &nbsp; ","categories": [],
+        "excerpt":"Coincidence that Evil Knievel (Evil Kenievel) just settled a lawsuit with Kanye West? And now he's died? TMB thinks not! Did Kanye West kill Evil Knievel (Evil Kenievel)?   http://www.cnn.com/2007/SHOWBIZ/TV/11/30/obit.knievel/index.html  ","categories": [],
         "tags": [],
         "url": "/Kanye-West-Killed-Evil-Knievel",
         "teaser": null
@@ -438,13 +438,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Karl Rich Painting",
-        "excerpt":"Be careful who you hire to do your painting in St. Louis. Karl Rich painting got a nice layer of overspray on The Mad Blogger's car. Supposedly they have sent a check to TMB to make up for this, we will see, right now TMB is just ticked because it's...","categories": [],
+        "excerpt":"Be careful who you hire to do your painting in St. Louis. Karl Rich painting got a nice layer of overspray on The Mad Blogger’s car. Supposedly they have sent a check to TMB to make up for this, we will see, right now TMB is just ticked because it’s...","categories": [],
         "tags": [],
         "url": "/Karl-Rich-Painting",
         "teaser": null
       },{
         "title": "Anheuser-Busch sells out to InBev",
-        "excerpt":"The Mad Blogger really doesn't think this is a bad deal for business, InBev made a high offer, the boards both agreed, and now AB is part of InBev. The \"bad\" part of this will be the potential impact it has on the various communities that Anheuser-Busch is a part...","categories": [],
+        "excerpt":"The Mad Blogger really doesn’t think this is a bad deal for business, InBev made a high offer, the boards both agreed, and now AB is part of InBev. The “bad” part of this will be the potential impact it has on the various communities that Anheuser-Busch is a part...","categories": [],
         "tags": [],
         "url": "/Anheuser-Busch-sells-out-to-InBev",
         "teaser": null
@@ -456,43 +456,43 @@ var store = [{
         "teaser": null
       },{
         "title": "What happened to the Tropical Smoothie Cafe in Des Peres?",
-        "excerpt":"The Mad Blogger wants to know: What happened to the Tropical Smoothie Cafe in Des Peres Missouri?  Did it close? Is Terry on vacation? The doors are locked and no one is home, TMB needs a smoothie! ","categories": [],
+        "excerpt":"The Mad Blogger wants to know: What happened to the Tropical Smoothie Cafe in Des Peres Missouri?   Did it close? Is Terry on vacation? The doors are locked and no one is home, TMB needs a smoothie!  ","categories": [],
         "tags": [],
         "url": "/What-happened-to-the-Tropical-Smoothie-Cafe-in-Des-Peres",
         "teaser": null
       },{
         "title": "Bigfoot Hoax!",
-        "excerpt":"Wow, this press conference they just held in California was such a crock. These two hoosiers from Georgia have turned on their spotlight for their 15 minutes of fame, I can't believe that this is getting any press. Right now they have nothing to prove a damn thing, all they...","categories": [],
+        "excerpt":"Wow, this press conference they just held in California was such a crock. These two hoosiers from Georgia have turned on their spotlight for their 15 minutes of fame, I can’t believe that this is getting any press. Right now they have nothing to prove a damn thing, all they...","categories": [],
         "tags": [],
         "url": "/Bigfoot-Hoax",
         "teaser": null
       },{
         "title": "Isuzu Performance",
-        "excerpt":"The Mad Blogger doesn't believe that the words Isuzu Performance should be placed together. There is no performance in the world of Isuzus, seriously, the people who try are simply freaks, TMB has proof. TMB here by declares that the words Isuzu and Performance shall never be used side by...","categories": [],
+        "excerpt":"The Mad Blogger doesn’t believe that the words Isuzu Performance should be placed together. There is no performance in the world of Isuzus, seriously, the people who try are simply freaks, TMB has proof. TMB here by declares that the words Isuzu and Performance shall never be used side by...","categories": [],
         "tags": [],
         "url": "/Isuzu-Performance",
         "teaser": null
       },{
         "title": "When did baseball become so violent?",
-        "excerpt":"When did it become okay to attack a catcher standing at homeplate? ","categories": [],
+        "excerpt":"When did it become okay to attack a catcher standing at homeplate?  ","categories": [],
         "tags": [],
         "url": "/When-did-baseball-become-so-violent",
         "teaser": null
       },{
         "title": "SteepAndCheap.com Great Customer Service",
-        "excerpt":"For those of you who&nbsp;know The Mad Blogger you know that he has an Oakley problem. Well, there's a website called SteepAndCheap that doesn't help with the problem, they provide a lot of Oakley gear at great prices and lately TMB has ordered quite a few things. Today TMB received...","categories": [],
+        "excerpt":"For those of you who know The Mad Blogger you know that he has an Oakley problem. Well, there's a website called SteepAndCheap that doesn't help with the problem, they provide a lot of Oakley gear at great prices and lately TMB has ordered quite a few things. Today TMB...","categories": [],
         "tags": [],
         "url": "/SteepAndCheapcom-Great-Customer-Service",
         "teaser": null
       },{
         "title": "The irony of a car theft",
-        "excerpt":"Check out this story in the St. Louis Post Dispatch about 6 car thieves.  http://www.stltoday.com/stltoday/news/stories.nsf/stlouiscitycounty/story/A29AC63FA4D998E38625751100143735?OpenDocument  Two seperate cars, 6 people total, crash into each other and 2 of them die. Irony? Justice? What do you think?  &nbsp; ","categories": [],
+        "excerpt":"Check out this story in the St. Louis Post Dispatch about 6 car thieves.  http://www.stltoday.com/stltoday/news/stories.nsf/stlouiscitycounty/story/A29AC63FA4D998E38625751100143735?OpenDocument  Two seperate cars, 6 people total, crash into each other and 2 of them die. Irony? Justice? What do you think?    ","categories": [],
         "tags": [],
         "url": "/The-irony-of-a-car-theft",
         "teaser": null
       },{
         "title": "Tropical Smoothie Cafe is open again in Des Peres!",
-        "excerpt":"The&nbsp;Mad Blogger&nbsp;is a happy guy again. Tropical Smoothie Cafe opened back up in Des Peres. So far this week TMB has had a wrap and two smoothies from TSC. Unfortunately TMBs tastes for the Tropical Smoothie Cafe wraps has gone away, not because the store opened back up, they were...","categories": [],
+        "excerpt":"The Mad Blogger is a happy guy again. Tropical Smoothie Cafe opened back up in Des Peres. So far this week TMB has had a wrap and two smoothies from TSC. Unfortunately TMBs tastes for the Tropical Smoothie Cafe wraps has gone away, not because the store opened back up,...","categories": [],
         "tags": [],
         "url": "/Tropical-Smoothie-Cafe-is-open-again-in-Des-Peres",
         "teaser": null
@@ -516,7 +516,7 @@ var store = [{
         "teaser": null
       },{
         "title": "A word of warning for the Samsung LN40C630K1F",
-        "excerpt":"The Mad Blogger is back! For this post TMB is a little torn. TMB isn't actually ranting, just giving people a word of warning, and some praise at the same time. A month ago TMB moved, and because of that decided that it was time to get a new TV...","categories": [],
+        "excerpt":"The Mad Blogger is back! For this post TMB is a little torn. TMB isn’t actually ranting, just giving people a word of warning, and some praise at the same time. A month ago TMB moved, and because of that decided that it was time to get a new TV...","categories": [],
         "tags": [],
         "url": "/A-word-of-warning-for-the-Samsung-LN40C630K1F",
         "teaser": null
