@@ -1,0 +1,11 @@
+---
+layout: post
+title: Another Reason why UPS Sucks!
+date: '2006-09-19T00:00:00+00:00'
+permalink: Another-Reason-why-UPS-Sucks
+image: 
+categories: ''
+---
+Door to door sales now? Really? Come on UPS, are you that desperate that you have to start going door to door to businesses to sell your product? TMB works in a small software office, and guess who just came in. Two sales people from UPS trying to talk us into using the drop box located outside our building. They didn&#39;t seem to understand when a TMB acquaintance told them we don&#39;t ship anything, we deliver everything electronically.
+
+The Mad Blogger has a question for UPS. &quot;What&#39;s in the box?&quot;
