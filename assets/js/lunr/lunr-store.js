@@ -198,7 +198,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Who is The Mad Blogger?",
-        "excerpt":"The Mad Blogger is Chris Hammond...   Oh no, know the bad people may get TMB!  ","categories": [],
+        "excerpt":"Is it a mystery?  ","categories": [],
         "tags": [],
         "url": "/Who-is-The-Mad-Blogger",
         "teaser": null

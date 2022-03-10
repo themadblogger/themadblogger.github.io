@@ -433,7 +433,7 @@ var documents = [{
     "id": 86,
     "url": "/Who-is-The-Mad-Blogger",
     "title": "Who is The Mad Blogger?",
-    "body": "2006/11/21 - The Mad Blogger is Chris Hammond. . . Oh no, know the bad people may get TMB! "
+    "body": "2006/11/21 - Is it a mystery? "
     }, {
     "id": 87,
     "url": "/Do-you-Zune",
