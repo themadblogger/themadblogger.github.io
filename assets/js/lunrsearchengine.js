@@ -398,7 +398,7 @@ var documents = [{
     "id": 79,
     "url": "/Police-Chase-in-St-Louis-Missouri",
     "title": "Police Chase in St. Louis Missouri!",
-    "body": "2006/12/27 - [YouTube:yFSTrtWGKLQ] Recently posted on YouTube! "
+    "body": "2006/12/27 - Recently posted on YouTube! "
     }, {
     "id": 80,
     "url": "/Where-do-you-get-your-Ring-Tones",
@@ -408,7 +408,7 @@ var documents = [{
     "id": 81,
     "url": "/Dont-use-Verizon-Wireless-they-cant-do-math",
     "title": "Don't use Verizon Wireless, they can't do math!",
-    "body": "2006/12/21 - The Mad Blogger is really just speachless here. Take a listen to this over on youtube, it&#39;s amazing! [YouTube:Gp0HyxQv97Q] http://www. youtube. com/watch?v=Gp0HyxQv97Q It&#39;s long, 20 minutes, but you won&#39;t be able to stop listening, it really is amazing how dumb people are nowadays. "
+    "body": "2006/12/21 - The Mad Blogger is really just speachless here. Take a listen to this over on youtube, it&#39;s amazing! http://www. youtube. com/watch?v=Gp0HyxQv97Q It&#39;s long, 20 minutes, but you won&#39;t be able to stop listening, it really is amazing how dumb people are nowadays. "
     }, {
     "id": 82,
     "url": "/The-problem-with-Steak-n-Shake-French-Fries",

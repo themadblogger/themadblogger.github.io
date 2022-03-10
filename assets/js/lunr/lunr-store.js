@@ -228,7 +228,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Don't use Verizon Wireless, they can't do math!",
-        "excerpt":"The Mad Blogger is really just speachless here. Take a listen to this over on youtube, it&#39;s amazing!   [YouTube:Gp0HyxQv97Q]   http://www.youtube.com/watch?v=Gp0HyxQv97Q   It&#39;s long, 20 minutes, but you won&#39;t be able to stop listening, it really is amazing how dumb people are nowadays.  ","categories": [],
+        "excerpt":"The Mad Blogger is really just speachless here. Take a listen to this over on youtube, it&#39;s amazing!      http://www.youtube.com/watch?v=Gp0HyxQv97Q   It&#39;s long, 20 minutes, but you won&#39;t be able to stop listening, it really is amazing how dumb people are nowadays.  ","categories": [],
         "tags": [],
         "url": "/Dont-use-Verizon-Wireless-they-cant-do-math",
         "teaser": null
@@ -240,7 +240,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Police Chase in St. Louis Missouri!",
-        "excerpt":"[YouTube:yFSTrtWGKLQ]   Recently posted on YouTube!  ","categories": [],
+        "excerpt":"  Recently posted on YouTube!  ","categories": [],
         "tags": [],
         "url": "/Police-Chase-in-St-Louis-Missouri",
         "teaser": null
