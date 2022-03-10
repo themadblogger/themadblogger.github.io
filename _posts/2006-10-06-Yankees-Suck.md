@@ -6,6 +6,6 @@ permalink: Yankees-Suck
 image: 
 categories: ''
 ---
-Coming from a Red Sox fan,&nbsp;TMB thinks the Yankess Suck! Go Detroit! 
+Coming from a Red Sox fan, TMB thinks the Yankess Suck! Go Detroit! 
 
 No one in America, outside the city of New York, wants to see a Subway Series. 

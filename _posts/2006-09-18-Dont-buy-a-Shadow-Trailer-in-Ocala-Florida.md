@@ -6,7 +6,7 @@ permalink: Dont-buy-a-Shadow-Trailer-in-Ocala-Florida
 image: 
 categories: ''
 ---
-The Mad Blogger&nbsp;wouldn't recommend buying a Shadow Trailer for Shadow Trailers in Ocala Florida or from the Ocala Trailer Company.
+The Mad Blogger wouldn't recommend buying a Shadow Trailer for Shadow Trailers in Ocala Florida or from the Ocala Trailer Company.
 
 If you've had a bad experience with Shadow Trailers, this is your post, give TMB some love.
 

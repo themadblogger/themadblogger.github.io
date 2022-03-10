@@ -8,4 +8,4 @@ categories: ''
 ---
 The Mad Blogger wants to know, what&#39;s the deal with Sarah Silverman?
 
-She is NOT funny? She&#39;s annoying as hell, and definitely not funny for a comedian. She&#39;s on Leno tonight, and making&nbsp;TMB want to change it to Letterman!
+She is NOT funny? She&#39;s annoying as hell, and definitely not funny for a comedian. She&#39;s on Leno tonight, and making TMB want to change it to Letterman!
