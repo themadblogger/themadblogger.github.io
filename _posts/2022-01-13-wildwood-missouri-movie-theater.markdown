@@ -2,7 +2,7 @@
 layout: post
 title:  Movie Theater in Wildwood, Missouri
 date:   2022-01-13 09:00:09 -0600
-image: /assets/MovieTheater-1.jpg
+image: MovieTheater-1.jpg
 featured: true
 categories: 
 ---
