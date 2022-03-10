@@ -6,6 +6,6 @@ permalink: What-happened-to-the-Tropical-Smoothie-Cafe-in-Des-Peres
 image: 
 categories: ''
 ---
-<P>The Mad Blogger wants to know: What happened to the Tropical Smoothie Cafe in Des Peres Missouri?</P>
+The Mad Blogger wants to know: What happened to the Tropical Smoothie Cafe in Des Peres Missouri?
 
-<P>Did it close? Is Terry on vacation? The doors are locked and no one is home, TMB needs a smoothie!</P>
+Did it close? Is Terry on vacation? The doors are locked and no one is home, TMB needs a smoothie!
