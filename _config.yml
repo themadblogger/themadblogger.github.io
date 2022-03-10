@@ -1,0 +1,82 @@
+# Site
+name: "TheMadBlogger.com"
+title: "TheMadBlogger.com - Internet's Premier Waste You in a Video Game Disposal Service"
+description: "You likely upset me!"
+logo: ''
+favicon: 'assets/images/favicon.ico'
+baseurl: ""
+google_analytics: 'UA-69145-5'
+disqus: 
+mailchimp-list: 
+include: ["_pages"]
+permalink: /:title/
+
+# Authors
+authors:
+  TheMadBlogger:
+    name: TheMadBlogger
+    display_name: TheMadBlogger
+    gravatar: 
+    email: TheMadBlogger@christoc.com
+    web: https://TheMadBlogger.com
+    twitter: 
+    description: "I am TheMadBlogger" 
+
+
+# Plugins
+plugins:
+  - jekyll_picture_tag
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-"
+adsense-data-ad-slot: ""
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+
+picture:
+  source: "assets/images"
+  output: "assets/images_out"
+  suppress_warnings: true
+  ignore_missing_images: false
+  presets:
+    default:
+      ppi: [1, 1.5]
+      source_medium:
+        media: "(min-width: 40em)"
+        width: "600"
+        height: "300"
+      source_default:
+        width: "300"
+
