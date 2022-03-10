@@ -66,7 +66,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Rockstar Supernova Finale",
-        "excerpt":"Lucas? I mean really? That little whiney guy, Supernova, you shoulda picked Toby. ","categories": [],
+        "excerpt":"Lucas? I mean really? That little whiney guy, Supernova, you shoulda picked Toby.  ","categories": [],
         "tags": [],
         "url": "/Rockstar-Supernova-Finale",
         "teaser": null
@@ -78,7 +78,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Don't buy a Shadow Trailer in Ocala Florida",
-        "excerpt":"The Mad Blogger&nbsp;wouldn't recommend buying a Shadow Trailer for Shadow Trailers in Ocala Florida or from the Ocala Trailer Company.   If you've had a bad experience with Shadow Trailers, this is your post, give TMB some love.   Here's the original post as to why not to buy&nbsp;a Shadow Trailer!  ","categories": [],
+        "excerpt":"The Mad Blogger wouldn’t recommend buying a Shadow Trailer for Shadow Trailers in Ocala Florida or from the Ocala Trailer Company.   If you’ve had a bad experience with Shadow Trailers, this is your post, give TMB some love.   ","categories": [],
         "tags": [],
         "url": "/Dont-buy-a-Shadow-Trailer-in-Ocala-Florida",
         "teaser": null
@@ -90,13 +90,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Studio 60: On the Sunset Strip?",
-        "excerpt":"So, I had my trusty (no, it&#39;s not really trusty) Moxi record Studio 60 tonight on NBC. I must admit, after the first 5 minutes I was ready to delete the show and clean it off my series list. Though, after making it through the first 5 minutes it started...","categories": [],
+        "excerpt":"So, I had my trusty (no, it's not really trusty) Moxi record Studio 60 tonight on NBC. I must admit, after the first 5 minutes I was ready to delete the show and clean it off my series list. Though, after making it through the first 5 minutes it started...","categories": [],
         "tags": [],
         "url": "/Studio-60-On-the-Sunset-Strip",
         "teaser": null
       },{
         "title": "Sarah Silverman, what's the deal?",
-        "excerpt":"The Mad Blogger wants to know, what&#39;s the deal with Sarah Silverman?   She is NOT funny? She&#39;s annoying as hell, and definitely not funny for a comedian. She&#39;s on Leno tonight, and making&nbsp;TMB want to change it to Letterman!   ","categories": [],
+        "excerpt":"The Mad Blogger wants to know, what's the deal with Sarah Silverman?   She is NOT funny? She's annoying as hell, and definitely not funny for a comedian. She's on Leno tonight, and making TMB want to change it to Letterman!  ","categories": [],
         "tags": [],
         "url": "/Sarah-Silverman-whats-the-deal",
         "teaser": null
@@ -216,7 +216,7 @@ var store = [{
         "teaser": null
       },{
         "title": "St. Louis Nissan Dealer, Bommarito Nissan",
-        "excerpt":"If you&#39;re looking for a good Nissan Dealer in St. Louis Missouri check out Bommarito Nissan! TMB purchased a car from Bommarito Nissan back in 2003 and has always received excellent service from Bommarito everytime TMB visits. The Mad Blogger highly recommends Todd Eversgard (sp?) for your car salesman, he&#39;s...","categories": [],
+        "excerpt":"If you're looking for a good Nissan Dealer in St. Louis Missouri check out Bommarito Nissan! TMB purchased a car from Bommarito Nissan back in 2003 and has always received excellent service from Bommarito everytime TMB visits. The Mad Blogger highly recommends Todd Eversgard (sp?) for your car salesman, he's...","categories": [],
         "tags": [],
         "url": "/St-Louis-Nissan-Dealer-Bommarito-Nissan",
         "teaser": null

@@ -418,7 +418,7 @@ var documents = [{
     "id": 83,
     "url": "/St-Louis-Nissan-Dealer-Bommarito-Nissan",
     "title": "St. Louis Nissan Dealer, Bommarito Nissan",
-    "body": "2006/12/16 - If you&#39;re looking for a good Nissan Dealer in St. Louis Missouri check out Bommarito Nissan! TMB purchased a car from Bommarito Nissan back in 2003 and has always received excellent service from Bommarito everytime TMB visits. The Mad Blogger highly recommends Todd Eversgard (sp?) for your car salesman, he&#39;s excellent! TMB even went up there today for a quick test drive and Todd remembered TMB almost 4 years later. "
+    "body": "2006/12/16 - If you're looking for a good Nissan Dealer in St. Louis Missouri check out Bommarito Nissan! TMB purchased a car from Bommarito Nissan back in 2003 and has always received excellent service from Bommarito everytime TMB visits. The Mad Blogger highly recommends Todd Eversgard (sp?) for your car salesman, he's excellent! TMB even went up there today for a quick test drive and Todd remembered TMB almost 4 years later. "
     }, {
     "id": 84,
     "url": "/The-Paradisus-at-Playa-Conchal",
@@ -518,22 +518,22 @@ var documents = [{
     "id": 103,
     "url": "/Sarah-Silverman-whats-the-deal",
     "title": "Sarah Silverman, what's the deal?",
-    "body": "2006/09/20 - The Mad Blogger wants to know, what&#39;s the deal with Sarah Silverman? She is NOT funny? She&#39;s annoying as hell, and definitely not funny for a comedian. She&#39;s on Leno tonight, and making&nbsp;TMB want to change it to Letterman! "
+    "body": "2006/09/20 - The Mad Blogger wants to know, what's the deal with Sarah Silverman? She is NOT funny? She's annoying as hell, and definitely not funny for a comedian. She's on Leno tonight, and making TMB want to change it to Letterman! "
     }, {
     "id": 104,
     "url": "/Studio-60-On-the-Sunset-Strip",
     "title": "Studio 60: On the Sunset Strip?",
-    "body": "2006/09/19 - So, I had my trusty (no, it&#39;s not really trusty) Moxi record Studio 60 tonight on NBC. I must admit, after the first 5 minutes I was ready to delete the show and clean it off my series list.  Though, after making it through the first 5 minutes it started to pick up. It&#39;ll stay on my series list at least one more week, and I predict probably even longer than that. "
+    "body": "2006/09/19 - So, I had my trusty (no, it's not really trusty) Moxi record Studio 60 tonight on NBC. I must admit, after the first 5 minutes I was ready to delete the show and clean it off my series list. Though, after making it through the first 5 minutes it started to pick up. It'll stay on my series list at least one more week, and I predict probably even longer than that. "
     }, {
     "id": 105,
     "url": "/Another-Reason-why-UPS-Sucks",
     "title": "Another Reason why UPS Sucks!",
-    "body": "2006/09/19 - Door to door sales now? Really? Come on UPS, are you that desperate that you have to start going door to door to businesses to sell your product? TMB works in a small software office, and guess who just came in. Two sales people from UPS trying to talk us into using the drop box located outside our building. They didn&#39;t seem to understand when a TMB acquaintance told them we don&#39;t ship anything, we deliver everything electronically.  The Mad Blogger has a question for UPS. &quot;What&#39;s in the box?&quot; "
+    "body": "2006/09/19 - Door to door sales now? Really? Come on UPS, are you that desperate that you have to start going door to door to businesses to sell your product? TMB works in a small software office, and guess who just came in. Two sales people from UPS trying to talk us into using the drop box located outside our building. They didn't seem to understand when a TMB acquaintance told them we don't ship anything, we deliver everything electronically. The Mad Blogger has a question for UPS.  What's in the box?  "
     }, {
     "id": 106,
     "url": "/Dont-buy-a-Shadow-Trailer-in-Ocala-Florida",
     "title": "Don't buy a Shadow Trailer in Ocala Florida",
-    "body": "2006/09/18 - The Mad Blogger&nbsp;wouldn't recommend buying a Shadow Trailer for Shadow Trailers in Ocala Florida or from the Ocala Trailer Company. If you've had a bad experience with Shadow Trailers, this is your post, give TMB some love. Here's the original post as to why not to buy&nbsp;a Shadow Trailer! "
+    "body": "2006/09/18 - The Mad Blogger wouldn’t recommend buying a Shadow Trailer for Shadow Trailers in Ocala Florida or from the Ocala Trailer Company. If you’ve had a bad experience with Shadow Trailers, this is your post, give TMB some love. "
     }, {
     "id": 107,
     "url": "/Why-buy-an-SUV-now",
