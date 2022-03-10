@@ -264,13 +264,13 @@ var store = [{
         "teaser": null
       },{
         "title": "St. Louis Charter Communication doesn't have CBS in High Def",
-        "excerpt":"Yet another reason that Charter Sucks. Here in St. Louis they no longer offer CBS in High Definition. WTF Charter? TMB got a stupid letter a few weeks back saying that someone was going to start charging for CBS in High def, and Charter didn't think their customers should have...","categories": [],
+        "excerpt":"Yet another reason that Charter Sucks. Here in St. Louis they no longer offer CBS in High Definition. WTF Charter? TMB got a stupid letter a few weeks back saying that someone was going to start charging for CBS in High def, and Charter didn’t think their customers should have...","categories": [],
         "tags": [],
         "url": "/St-Louis-Charter-Communication-doesnt-have-CBS-in-High-Def",
         "teaser": null
       },{
         "title": "Charter Communications Still Sucks",
-        "excerpt":"Reason #535,319 Charter, here's why you still suck! TMB spent 1.5 hours on the phone with Charter last night trying to get his 10mb internet service, after multiple speed tests The Mad Blogger was only getting 3mb service, which means 256k upload. After 1.5 hours on hold the Charter Tech...","categories": [],
+        "excerpt":"Reason # 535,319 Charter, here’s why you still suck! TMB spent 1.5 hours on the phone with Charter last night trying to get his 10mb internet service, after multiple speed tests The Mad Blogger was only getting 3mb service, which means 256k upload. After 1.5 hours on hold the Charter...","categories": [],
         "tags": [],
         "url": "/Charter-Communications-Still-Sucks",
         "teaser": null
