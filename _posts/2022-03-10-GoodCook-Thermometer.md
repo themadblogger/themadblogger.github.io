@@ -5,6 +5,7 @@ date: '2022-03-10T00:00:00+00:00'
 permalink: The-Good-Cook-Classic-Meat-Thermometer-NSF-Approved-SUCKS
 image: GoodCookThermometer.jpg
 categories: ''
+featured: true
 ---
 Alright, here is one to get TMB all worked up. The Mad Blogger should have learned his lesson a few months back when trying to cook a tri-tip on the ole BBQ out back, but he didn’t, so history repeated itself on December 25, 2011. The Good Cook Classic Meat Thermometer NSF Approved, pictured, has to be one of the worst designed products of all time. Take a look at that photo. That photo is taken at room temperature.
 
