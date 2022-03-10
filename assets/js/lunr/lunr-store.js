@@ -526,4 +526,10 @@ var store = [{
         "tags": [],
         "url": "/Injen-Systems-Customer-Service-Sucks",
         "teaser": null
+      },{
+        "title": "The Good Cook Classic Meat Thermometer NSF Approved SUCKS",
+        "excerpt":"Alright, here is one to get TMB all worked up. The Mad Blogger should have learned his lesson a few months back when trying to cook a tri-tip on the ole BBQ out back, but he didn’t, so history repeated itself on December 25, 2011. The Good Cook Classic Meat...","categories": [],
+        "tags": [],
+        "url": "/The-Good-Cook-Classic-Meat-Thermometer-NSF-Approved-SUCKS",
+        "teaser": null
       }]
