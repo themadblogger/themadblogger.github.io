@@ -1,36 +1,36 @@
 var store = [{
         "title": "Why not to buy from Southtown Dodge, AKA Southtown Dodge Sucks",
-        "excerpt":"Well lets begin the story with a little background. The Mad Blogger was in the mood for a new ride. He&#39;s been driving a 2003 Nissan 350Z for 3+ years now, and wanted something up off the ground, a bit more visible and much larger. So he began by searching...","categories": [],
+        "excerpt":"Well lets begin the story with a little background. The Mad Blogger was in the mood for a new ride. He’s been driving a 2003 Nissan 350Z for 3+ years now, and wanted something up off the ground, a bit more visible and much larger. So he began by searching...","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/Why-not-to-buy-from-Southtown-Dodge-AKA-Southtown-Dodge-Sucks",
         "teaser": null
       },{
         "title": "Shop at Dave Sinclair Lincoln Mercury! The day was saved!",
-        "excerpt":"So The Mad Blogger (TMB) went out shopping for a car this evening, trying to repair the chaos that was earlier today. Long story short (it&#39;s too late right now, long story to come tomorrow), TMB is VERY happy this morning(night). TMB has a new ride. An 05 Chevy Tahoe...","categories": [],
+        "excerpt":"So The Mad Blogger (TMB) went out shopping for a car this evening, trying to repair the chaos that was earlier today. Long story short (it's too late right now, long story to come tomorrow), TMB is VERY happy this morning(night). TMB has a new ride. An 05 Chevy Tahoe...","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/Shop-at-Dave-Sinclair-Lincoln-Mercury-The-day-was-saved",
         "teaser": null
       },{
         "title": "How The Mad Blogger got happy, Thanks to Dave Sinclair Lincoln Mercury...",
-        "excerpt":"So some of you have read how The Mad Blogger&#39;s Friday started out. In summary, it started out horrible all due to Southtown Dodge. This story however, is about how TMB&#39;s Friday ended up, and we must say, it ended up FAR better than it started out! After the whole...","categories": [],
+        "excerpt":"So some of you have read how The Mad Blogger's Friday started out. In summary, it started out horrible all due to Southtown Dodge. This story however, is about how TMB's Friday ended up, and we must say, it ended up FAR better than it started out! After the whole...","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/How-The-Mad-Blogger-got-happy-Thanks-to-Dave-Sinclair-Lincoln-Mercury",
         "teaser": null
       },{
         "title": "Zapatas Mexican Restaurant on Manchester Road in Missouri",
-        "excerpt":"If you&#39;re looking for some good Mexican food, DON&#39;T go to Zapatas on Manchester Road! The Mad Blogger went w/ the office the day they opened, for lunch, to give them a shot. The food was horrible, no one enjoyed their meals. TMB figured, maybe, just maybe, that was just...","categories": [],
+        "excerpt":"If you’re looking for some good Mexican food, DON’T go to Zapatas on Manchester Road! The Mad Blogger went w/ the office the day they opened, for lunch, to give them a shot. The food was horrible, no one enjoyed their meals. TMB figured, maybe, just maybe, that was just...","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/Zapatas-Mexican-Restaurant-on-Manchester-Road-in-Missouri",
         "teaser": null
       },{
         "title": "Charter Cable, Internet, Telephone Customer Service Blows",
-        "excerpt":"If you&#39;re looking to get Digital Cable, Internet or Phone Service from Charter Communications, The Mad Blogger would HIGHLY recommend looking to another provider! TMB has had horrible experiences with Charter over the past few months. Just so you know TMB isn&#39;t the only one complaining check out this recent...","categories": [],
+        "excerpt":"If you're looking to get Digital Cable, Internet or Phone Service from Charter Communications, The Mad Blogger would HIGHLY recommend looking to another provider! TMB has had horrible experiences with Charter over the past few months. Just so you know TMB isn't the only one complaining check out this recent...","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/Charter-Cable-Internet-Telephone-Customer-Service-Blows",
         "teaser": null
       },{
         "title": "Big tip, big taxes!",
-        "excerpt":"Now hear this, The Mad Blogger is not suggesting anyone try to skip paying taxes to the IRS, but this girl should never have made a mention about this huge tip, other than to her bosses to verify it was legit. Now she&#39;s going to pay a big ole fat...","categories": [],
+        "excerpt":"Now hear this, The Mad Blogger is not suggesting anyone try to skip paying taxes to the IRS, but this girl should never have made a mention about this huge tip, other than to her bosses to verify it was legit. Now she's going to pay a big ole fat...","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/Big-tip-big-taxes",
         "teaser": null
@@ -42,25 +42,25 @@ var store = [{
         "teaser": null
       },{
         "title": "Ford 6.0 Liter Diesels suck!",
-        "excerpt":"Here goes another rant by The Mad Blogger, hold on to your seats folks. The Mad Blogger and his bloggette own a 2004 Ford F350, 6.0 liter diesel. It has 53k miles on it, and has gone into the shop 3 times in the last 2 months. Since it&#39;s been...","categories": [],
+        "excerpt":"Here goes another rant by The Mad Blogger, hold on to your seats folks. The Mad Blogger and his bloggette own a 2004 Ford F350, 6.0 liter diesel. It has 53k miles on it, and has gone into the shop 3 times in the last 2 months. Since it’s been...","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/Ford-60-Liter-Diesels-suck",
         "teaser": null
       },{
         "title": "UPS Insurance Sucks",
-        "excerpt":"Just because The Mad Blogger is still bitter about things that other companies have done in the past TMB needed to bring up some old posts to rant about. 1 http://www.solo2.org/home/aid/88 2 http://www.solo2.org/home/aid/45 3 http://www.solo2.org/home/aid/25 4 http://www.solo2.org/home/aid/24 5 http://www.solo2.org/home/aid/20 6 http://www.solo2.org/home/aid/17 TMB would highly suggest using another shipping company, anything...","categories": [],
+        "excerpt":"Just because The Mad Blogger is still bitter about things that other companies have done in the past TMB needed to bring up some old posts to rant about. (old dead links removed, I really need to regenerate that content… ) TMB would highly suggest using another shipping company, anything...","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/UPS-Insurance-Sucks",
         "teaser": null
       },{
         "title": "Gas in St. Louis Missouri",
-        "excerpt":"The Mad Blogger is loving the recent cheap gas prices here in St. Louis. After buying a large gas guzzling SUV gas prices have dropped down to 2.29 for the cheap stuff! Rock on, score one for TMB. ","categories": [],
+        "excerpt":"The Mad Blogger is loving the recent cheap gas prices here in St. Louis. After buying a large gas guzzling SUV gas prices have dropped down to 2.29 for the cheap stuff! Rock on, score one for TMB.  ","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/Gas-in-St-Louis-Missouri",
         "teaser": null
       },{
         "title": "Is Viewpoint Spyware? Viewpoint Sucks!",
-        "excerpt":"Damn skippy Viewpoint is Spyware. TMB doesn&#39;t care if they don&#39;t think it is. It gets installed, without your knowing, then tries to update itself via the internet. In the eyes of The Mad Blogger, VIEWPOINT IS SPYWARE. Anyone who downloads and installs AOL Instant Messenger, AIM, will get Viewpoint....","categories": [],
+        "excerpt":"Damn skippy Viewpoint is Spyware. TMB doesn't care if they don't think it is. It gets installed, without your knowing, then tries to update itself via the internet. In the eyes of The Mad Blogger, VIEWPOINT IS SPYWARE. Anyone who downloads and installs AOL Instant Messenger, AIM, will get Viewpoint....","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/Is-Viewpoint-Spyware-Viewpoint-Sucks",
         "teaser": null
@@ -72,7 +72,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Why buy an SUV now?",
-        "excerpt":"The Mad Blogger just recently did, you should too. Here&#39;s why. ","categories": [],
+        "excerpt":"The Mad Blogger just recently did, you should too. Here's why. ","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/Why-buy-an-SUV-now",
         "teaser": null
@@ -90,31 +90,31 @@ var store = [{
         "teaser": null
       },{
         "title": "Studio 60: On the Sunset Strip?",
-        "excerpt":"So, I had my trusty (no, it's not really trusty) Moxi record Studio 60 tonight on NBC. I must admit, after the first 5 minutes I was ready to delete the show and clean it off my series list. Though, after making it through the first 5 minutes it started...","categories": [],
+        "excerpt":"So, I had my trusty (no, it’s not really trusty) Moxi record Studio 60 tonight on NBC. I must admit, after the first 5 minutes I was ready to delete the show and clean it off my series list. Though, after making it through the first 5 minutes it started...","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/Studio-60-On-the-Sunset-Strip",
         "teaser": null
       },{
         "title": "Sarah Silverman, what's the deal?",
-        "excerpt":"The Mad Blogger wants to know, what's the deal with Sarah Silverman?   She is NOT funny? She's annoying as hell, and definitely not funny for a comedian. She's on Leno tonight, and making TMB want to change it to Letterman!  ","categories": [],
+        "excerpt":"The Mad Blogger wants to know, what’s the deal with Sarah Silverman?   She is NOT funny? She’s annoying as hell, and definitely not funny for a comedian. She’s on Leno tonight, and making TMB want to change it to Letterman!  ","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/Sarah-Silverman-whats-the-deal",
         "teaser": null
       },{
         "title": "Magnets and Trains just don't fly?",
-        "excerpt":"http://www.cnn.com/2006/WORLD/europe/09/22/germany.crash.reut/index.html The Mad Blogger sure is glad he isn&#39;t a beta tester for Magnetic Trains in Germany! &quot;He said the train had collided with an object on the track while travelling at a speed of at least 200 km/h (120 mph) and that several passengers had been seriously injured.&quot; Sounds...","categories": [],
+        "excerpt":"http://www.cnn.com/2006/WORLD/europe/09/22/germany.crash.reut/index.html The Mad Blogger sure is glad he isn't a beta tester for Magnetic Trains in Germany! \"He said the train had collided with an object on the track while travelling at a speed of at least 200 km/h (120 mph) and that several passengers had been seriously injured.\" Sounds...","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/Magnets-and-Trains-just-dont-fly",
         "teaser": null
       },{
         "title": "Playskool Team Talkin Tool Bench",
-        "excerpt":"The Mad Blogger wonders what this world is really coming too. A company recalls all of a product line because two families were dumb enough to let their kids play with toys they weren&#39;t old enough for? &quot;The two 3-inch plastic nails in Playskool&#39;s &quot;Team Talkin&#39; Tool Bench&quot; led to...","categories": [],
+        "excerpt":"The Mad Blogger wonders what this world is really coming too. A company recalls all of a product line because two families were dumb enough to let their kids play with toys they weren't old enough for? \"The two 3-inch plastic nails in Playskool's \"Team Talkin' Tool Bench\" led to...","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/Playskool-Team-Talkin-Tool-Bench",
         "teaser": null
       },{
         "title": "Sony Mylo - TMB wants one of these",
-        "excerpt":"The Mad Blogger stumbled across something interesting today. The Sony Mylo. Perhaps TMB needs to go pick one of these up and give it a shot. That is, unless there&#39;s someone out there who wants to provide TMB with a free one! TMB will do a review for ya!  ","categories": [],
+        "excerpt":"The Mad Blogger stumbled across something interesting today. The Sony Mylo. Perhaps TMB needs to go pick one of these up and give it a shot. That is, unless there's someone out there who wants to provide TMB with a free one! TMB will do a review for ya!  ","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/Sony-Mylo---TMB-wants-one-of-these",
         "teaser": null
@@ -126,13 +126,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Paddington Bear, a Killer Fisherman",
-        "excerpt":"http://msnbc.msn.com/id/15004927/?GT1=8506 &quot;MILFORD, N.H. - A teddy bear has been implicated in 2,500 deaths. Of trout, that is. State officials say a teddy bear dropped into a pool at a Fish and Game Department hatchery earlier this month clogged a drain. The clog blocked the flow of oxygen to the pool...","categories": [],
+        "excerpt":"http://msnbc.msn.com/id/15004927/?GT1=8506 \"MILFORD, N.H. - A teddy bear has been implicated in 2,500 deaths. Of trout, that is. State officials say a teddy bear dropped into a pool at a Fish and Game Department hatchery earlier this month clogged a drain. The clog blocked the flow of oxygen to the pool...","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/Paddington-Bear-a-Killer-Fisherman",
         "teaser": null
       },{
         "title": "Nemofang, we found you fhy729241025 ",
-        "excerpt":"It&#39;s amazing what the internet will get you.    Here&#39;s a collection of items we&#39;ve been able to dig up    http://www.photolink.com.tw/cgi-bin/ShowPhoto?photo_id=fhy729241025&amp;albumIDs=411b4e41&amp;photoID=41b7873d   Here&#39;s his landlord information   http://offcampus.osu.edu/property_details.asp?PropertyID=10800&amp;type=lease   More photos   http://www.photolink.com.tw/cgi-bin/ShowAlbum?albumIDs=411b4e41&amp;photo_id=fhy729241025       http://www.wretch.cc/mypage/valorxnemo  ","categories": [],
+        "excerpt":"It's amazing what the internet will get you.    Here's a collection of items we've been able to dig up    http://www.photolink.com.tw/cgi-bin/ShowPhoto?photo_id=fhy729241025&amp;albumIDs=411b4e41&amp;photoID=41b7873d   Here's his landlord information   http://offcampus.osu.edu/property_details.asp?PropertyID=10800&amp;type=lease   More photos   http://www.photolink.com.tw/cgi-bin/ShowAlbum?albumIDs=411b4e41&amp;photo_id=fhy729241025       http://www.wretch.cc/mypage/valorxnemo  ","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/Nemofang-we-found-you-fhy729241025-",
         "teaser": null
@@ -150,49 +150,43 @@ var store = [{
         "teaser": null
       },{
         "title": "Yankees Suck and the players know it? Suicide attempt for Cory Lidle?",
-        "excerpt":"Did someone from the Yankees kill themselves over their recent loss to the Detroit Tigers in the playoffs? According to the AP the plane that crashed into a building in NY today was owned by a Yankees pitcher. More info from TMB as it becomes available. UPDATE: &quot;New York Yankees...","categories": [],
+        "excerpt":"Did someone from the Yankees kill themselves over their recent loss to the Detroit Tigers in the playoffs? According to the AP the plane that crashed into a building in NY today was owned by a Yankees pitcher. More info from TMB as it becomes available. UPDATE: \"New York Yankees...","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/Yankees-Suck-and-the-players-know-it-Suicide-attempt-for-Cory-Lidle",
         "teaser": null
       },{
-        "title": "&quot;blogs empower character assassins and mischief makers.&quot;",
-        "excerpt":"Who&#39;s that sound like? The Mad Blogger? noooo! TMB isn&#39;t a character assassin, The Mad Blogger is a truth spreader. Everything that TMB has posted has been the truth, which is not to be mistaken for libel. Libel is when you spread misinformation, TMB prides himself in spreading only the...","categories": [],
-        "tags": [],
-        "url": "https://www.themadblogger.com/blogs-empower-character-assassins-and-mischief-makers",
-        "teaser": null
-      },{
         "title": "Windows Vista blog and coming soon!",
-        "excerpt":"The Mad Blogger is excited about Windows Vista! TMB has been running Vista on a machine for a few weeks now and is loving it! TMB Can&#39;t wait for the final release! Here&#39;s the new and improved Windows Vista Blog! Look at that, it&#39;s running on the same software as...","categories": [],
+        "excerpt":"The Mad Blogger is excited about Windows Vista! TMB has been running Vista on a machine for a few weeks now and is loving it! TMB Can't wait for the final release! Here's the new and improved Windows Vista Blog! Look at that, it's running on the same software as...","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/Windows-Vista-blog-and-coming-soon",
         "teaser": null
       },{
         "title": "What The Mad Blogger hates about Winter",
-        "excerpt":"The Mad Blogger is actually a Winter fan, so why would TMB write an article about what he hates about winter? Well there&#39;s one thing TMB can&#39;t stand about winter. All that damn static! The Mad Blogger loves the cold, loves any snow/ice that comes his way, but can&#39;t stand...","categories": [],
+        "excerpt":"The Mad Blogger is actually a Winter fan, so why would TMB write an article about what he hates about winter? Well there's one thing TMB can't stand about winter. All that damn static! The Mad Blogger loves the cold, loves any snow/ice that comes his way, but can't stand...","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/What-The-Mad-Blogger-hates-about-Winter",
         "teaser": null
       },{
         "title": "Microsoft Zune doesn't work with Windows Vista!",
-        "excerpt":"Hello, Microsoft? What were you thinking? You have a brand new Operating System, Windows Vista, which TMB loves btw, and a brand new Music Player, Zune, which TMB also loves, and the two don&#39;t work together! Hello??? Is there anyone out there? Left hand, meet the right hand. Vista and...","categories": [],
+        "excerpt":"Hello, Microsoft? What were you thinking? You have a brand new Operating System, Windows Vista, which TMB loves btw, and a brand new Music Player, Zune, which TMB also loves, and the two don't work together! Hello??? Is there anyone out there? Left hand, meet the right hand. Vista and...","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/Microsoft-Zune-doesnt-work-with-Windows-Vista",
         "teaser": null
       },{
         "title": "Southtown Dodge",
-        "excerpt":"The Mad Blogger hopes you aren&#39;t buying anything from Southtown Dodge! Why would TMB suggest not buying from Southtown Dodge? Read here to see for yourself! ","categories": [],
+        "excerpt":"The Mad Blogger hopes you aren't buying anything from Southtown Dodge! Why would TMB suggest not buying from Southtown Dodge? Read here to see for yourself! ","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/Southtown-Dodge",
         "teaser": null
       },{
         "title": "Want to get an Xbox 360 for $100?",
-        "excerpt":"If you do, head on over to Amazon.com! Wait, can't find the link to buy them for $100? That's because you have to vote on one of four deals that Amazon.com will have starting next Thursday at 2pm. Be sure to vote for the Xbox 360 deal on the \"&quot;\"vote\"...","categories": [],
+        "excerpt":"If you do, head on over to Amazon.com! Wait, can't find the link to buy them for $100? That's because you have to vote on one of four deals that Amazon.com will have starting next Thursday at 2pm. Be sure to vote for the Xbox 360 deal on the \"\"\"vote\"...","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/Want-to-get-an-Xbox-360-for-100",
         "teaser": null
       },{
         "title": "Do you Zune?",
-        "excerpt":"Do you Zune? The Mad Blogger does! And TMB is loving it! 30 gigs of wonderful music and videos. The Zune will be the entertainment choice for The Mad Blogger&#39;s upcoming wedding flights. TMB has loaded up on a lot of shows not seen yet this year and hopes to...","categories": [],
+        "excerpt":"Do you Zune? The Mad Blogger does! And TMB is loving it! 30 gigs of wonderful music and videos. The Zune will be the entertainment choice for The Mad Blogger's upcoming wedding flights. TMB has loaded up on a lot of shows not seen yet this year and hopes to...","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/Do-you-Zune",
         "teaser": null
@@ -216,19 +210,19 @@ var store = [{
         "teaser": null
       },{
         "title": "St. Louis Nissan Dealer, Bommarito Nissan",
-        "excerpt":"If you're looking for a good Nissan Dealer in St. Louis Missouri check out Bommarito Nissan! TMB purchased a car from Bommarito Nissan back in 2003 and has always received excellent service from Bommarito everytime TMB visits. The Mad Blogger highly recommends Todd Eversgard (sp?) for your car salesman, he's...","categories": [],
+        "excerpt":"If you’re looking for a good Nissan Dealer in St. Louis Missouri check out Bommarito Nissan! TMB purchased a car from Bommarito Nissan back in 2003 and has always received excellent service from Bommarito everytime TMB visits. The Mad Blogger highly recommends Todd Eversgard (sp?) for your car salesman, he’s...","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/St-Louis-Nissan-Dealer-Bommarito-Nissan",
         "teaser": null
       },{
         "title": "The problem with Steak n Shake French Fries",
-        "excerpt":"The Mad Blogger loves himself some Steak n Shake. A double steakburger with cheese please, an order of fries, and a vanilla shake (eggnog shake around the Holidays). That&#39;s some good stuff. The only problem TMB has with Steak n Shake is their Fries. They are too small, so they...","categories": [],
+        "excerpt":"The Mad Blogger loves himself some Steak n Shake. A double steakburger with cheese please, an order of fries, and a vanilla shake (eggnog shake around the Holidays). That’s some good stuff. The only problem TMB has with Steak n Shake is their Fries. They are too small, so they...","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/The-problem-with-Steak-n-Shake-French-Fries",
         "teaser": null
       },{
         "title": "Don't use Verizon Wireless, they can't do math!",
-        "excerpt":"The Mad Blogger is really just speachless here. Take a listen to this over on youtube, it&#39;s amazing!      http://www.youtube.com/watch?v=Gp0HyxQv97Q   It&#39;s long, 20 minutes, but you won&#39;t be able to stop listening, it really is amazing how dumb people are nowadays.  ","categories": [],
+        "excerpt":"The Mad Blogger is really just speachless here. Take a listen to this over on youtube, it's amazing!      http://www.youtube.com/watch?v=Gp0HyxQv97Q   It's long, 20 minutes, but you won't be able to stop listening, it really is amazing how dumb people are nowadays.  ","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/Dont-use-Verizon-Wireless-they-cant-do-math",
         "teaser": null
@@ -497,12 +491,6 @@ var store = [{
         "url": "https://www.themadblogger.com/Tropical-Smoothie-Cafe-is-open-again-in-Des-Peres",
         "teaser": null
       },{
-        "title": "&quot;Clinton calls base-closure decision 'regrettable'&quot; From the family that closed how many?",
-        "excerpt":"The Mad Blogger finds this headline on CNN about the closing of the US Military base in Kyrgyzstan extremely annoying.  http://www.cnn.com/2009/POLITICS/02/05/clinton.kyrgyzstan/index.html  Wasn't it her f'n husband who closed down a LARGE number of US Military bases in our own country?  TMB is not a Clinton fan. ","categories": [],
-        "tags": [],
-        "url": "https://www.themadblogger.com/Clinton-calls-base-closure-decision-regrettable-From-the-family-that-closed-how-many",
-        "teaser": null
-      },{
         "title": "Bringing sexy back",
         "excerpt":"TMB thinks it is time to bring back the site. The Mad Blogger is back baby, look out. Here are some of our previous 'best' posts Why you shouldn't go to Glendale Chrysler Charter Communications Still Sucks Southtown Dodge has bad sales people Stay tuned for more rants coming soon!...","categories": [],
         "tags": [],
@@ -549,5 +537,17 @@ var store = [{
         "excerpt":"TMB had a revalation today. After spending far too many hours responding to right wing nut jobs about CRT and the threat of CRT to Rockwood School District (hint, there is no threat). TMB has decided, decreed as it may be, that Talking Heads are the problem. You should read...","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/talking-heads-are-the-problem",
+        "teaser": null
+      },{
+        "title": null,
+        "excerpt":"Who's that sound like? The Mad Blogger? noooo! TMB isn't a character assassin, The Mad Blogger is a truth spreader. Everything that TMB has posted has been the truth, which is not to be mistaken for libel. Libel is when you spread misinformation, TMB prides himself in spreading only the...","categories": [],
+        "tags": null,
+        "url": "https://www.themadblogger.com/2006-10-12-blogs-empower-character-assassins-and-mischief-makers/",
+        "teaser": null
+      },{
+        "title": null,
+        "excerpt":"The Mad Blogger finds this headline on CNN about the closing of the US Military base in Kyrgyzstan extremely annoying.  http://www.cnn.com/2009/POLITICS/02/05/clinton.kyrgyzstan/index.html  Wasn't it her f'n husband who closed down a LARGE number of US Military bases in our own country?  TMB is not a Clinton fan. ","categories": [],
+        "tags": null,
+        "url": "https://www.themadblogger.com/2009-02-06-Clinton-calls-base-closure-decision-regrettable-From-the-family-that-closed-how-many/",
         "teaser": null
       }]
