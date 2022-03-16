@@ -7,7 +7,6 @@ favicon: 'assets/images/favicon.ico'
 url: https://www.themadblogger.com
 baseurl: 
 google_analytics: 'UA-69145-5'
-disqus: 
 mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/
