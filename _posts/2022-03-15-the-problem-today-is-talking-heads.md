@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Problem with the World Today is Talking Heads
-date: '2022-03-15T23:00:00+00:00'
+date: '2022-03-15T18:00:00+00:00'
 permalink: talking-heads-are-the-problem
 image: 
 categories: ''
