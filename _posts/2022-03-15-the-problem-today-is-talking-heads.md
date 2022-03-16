@@ -5,7 +5,7 @@ date: '2022-03-15T23:00:00+00:00'
 permalink: talking-heads-are-the-problem
 image: 
 categories: ''
-features: true
+featured: true
 ---
 TMB had a revalation today. After spending far too many hours responding to right wing nut jobs about CRT and the threat of CRT to Rockwood School District (hint, there is no threat).
 
