@@ -155,6 +155,12 @@ var store = [{
         "url": "https://www.themadblogger.com/Yankees-Suck-and-the-players-know-it-Suicide-attempt-for-Cory-Lidle",
         "teaser": null
       },{
+        "title": "blogs empower character assassins and mischief makers.",
+        "excerpt":"Who's that sound like? The Mad Blogger? noooo! TMB isn't a character assassin, The Mad Blogger is a truth spreader. Everything that TMB has posted has been the truth, which is not to be mistaken for libel. Libel is when you spread misinformation, TMB prides himself in spreading only the...","categories": [],
+        "tags": [],
+        "url": "https://www.themadblogger.com/blogs-empower-character-assassins-and-mischief-makers",
+        "teaser": null
+      },{
         "title": "Windows Vista blog and coming soon!",
         "excerpt":"The Mad Blogger is excited about Windows Vista! TMB has been running Vista on a machine for a few weeks now and is loving it! TMB Can't wait for the final release! Here's the new and improved Windows Vista Blog! Look at that, it's running on the same software as...","categories": [],
         "tags": [],
@@ -491,6 +497,12 @@ var store = [{
         "url": "https://www.themadblogger.com/Tropical-Smoothie-Cafe-is-open-again-in-Des-Peres",
         "teaser": null
       },{
+        "title": "Clinton calls base-closure decision 'regrettable' From the family that closed how many?",
+        "excerpt":"The Mad Blogger finds this headline on CNN about the closing of the US Military base in Kyrgyzstan extremely annoying.  http://www.cnn.com/2009/POLITICS/02/05/clinton.kyrgyzstan/index.html  Wasn't it her f'n husband who closed down a LARGE number of US Military bases in our own country?  TMB is not a Clinton fan. ","categories": [],
+        "tags": [],
+        "url": "https://www.themadblogger.com/Clinton-calls-base-closure-decision-regrettable-From-the-family-that-closed-how-many",
+        "teaser": null
+      },{
         "title": "Bringing sexy back",
         "excerpt":"TMB thinks it is time to bring back the site. The Mad Blogger is back baby, look out. Here are some of our previous 'best' posts Why you shouldn't go to Glendale Chrysler Charter Communications Still Sucks Southtown Dodge has bad sales people Stay tuned for more rants coming soon!...","categories": [],
         "tags": [],
@@ -537,17 +549,5 @@ var store = [{
         "excerpt":"TMB had a revalation today. After spending far too many hours responding to right wing nut jobs about CRT and the threat of CRT to Rockwood School District (hint, there is no threat). TMB has decided, decreed as it may be, that Talking Heads are the problem. You should read...","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/talking-heads-are-the-problem",
-        "teaser": null
-      },{
-        "title": null,
-        "excerpt":"Who's that sound like? The Mad Blogger? noooo! TMB isn't a character assassin, The Mad Blogger is a truth spreader. Everything that TMB has posted has been the truth, which is not to be mistaken for libel. Libel is when you spread misinformation, TMB prides himself in spreading only the...","categories": [],
-        "tags": null,
-        "url": "https://www.themadblogger.com/2006-10-12-blogs-empower-character-assassins-and-mischief-makers/",
-        "teaser": null
-      },{
-        "title": null,
-        "excerpt":"The Mad Blogger finds this headline on CNN about the closing of the US Military base in Kyrgyzstan extremely annoying.  http://www.cnn.com/2009/POLITICS/02/05/clinton.kyrgyzstan/index.html  Wasn't it her f'n husband who closed down a LARGE number of US Military bases in our own country?  TMB is not a Clinton fan. ","categories": [],
-        "tags": null,
-        "url": "https://www.themadblogger.com/2009-02-06-Clinton-calls-base-closure-decision-regrettable-From-the-family-that-closed-how-many/",
         "teaser": null
       }]
