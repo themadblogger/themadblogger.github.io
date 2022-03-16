@@ -414,7 +414,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Al Sharpton Sucks",
-        "excerpt":"Sorry Al, but TMB thinks you are simply a press hog always looking to jump into the spotlight over the most trivial things. Such as Kelly Tilghman's stupid comment about \"lynching\" Tiger Woods. She didn't mean it in a racist way, get over yourself. This country is far too sensative...","categories": [],
+        "excerpt":"This content has been removed….  ","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/Al-Sharpton-Sucks",
         "teaser": null
@@ -543,5 +543,11 @@ var store = [{
         "excerpt":"If you are in the Bay Area and are looking for a ride to the Airport, be sure to NOT use Pacific Airport Shuttles. This morning (around 7:45am pacific time) on the way to work (11/17/2011) TMB was cut off by two of Pacific Airport Shuttles vans, number 921 and...","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/Pacific-Airport-Shuttles-921-and-978",
+        "teaser": null
+      },{
+        "title": "The Problem with the World Today is Talking Heads",
+        "excerpt":"TMB had a revalation today. After spending far too many hours responding to right wing nut jobs about CRT and the threat of CRT to Rockwood School District (hint, there is no threat). TMB has decided, decreed as it may be, that Talking Heads are the problem. You should read...","categories": [],
+        "tags": [],
+        "url": "https://www.themadblogger.com/talking-heads-are-the-problem",
         "teaser": null
       }]
