@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "https://www.themadblogger.com/about",
     "title": "About TheMadBlogger.com",
-    "body": "You’ve likely upset me "
+    "body": "You’ve likely upset TheMadBlogger What next? "
     }, {
     "id": 2,
     "url": "https://www.themadblogger.com/categories",
