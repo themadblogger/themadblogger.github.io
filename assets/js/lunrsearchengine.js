@@ -273,7 +273,7 @@ var documents = [{
     "id": 54,
     "url": "https://www.themadblogger.com/Kanye-West-Killed-Evil-Knievel",
     "title": "Kanye West Killed Evil Knievel",
-    "body": "2007/11/30 - Coincidence that Evil Knievel (Evil Kenievel) just settled a lawsuit with Kanye West? And now he's died? TMB thinks not! Did Kanye West kill Evil Knievel (Evil Kenievel)? http://www. cnn. com/2007/SHOWBIZ/TV/11/30/obit. knievel/index. html "
+    "body": "2007/11/30 - Coincidence that Evil Knievel (Evil Kenievel) just settled a lawsuit with Kanye West? And now he’s died? TMB thinks not! Did Kanye West kill Evil Knievel (Evil Kenievel)? CNN Article "
     }, {
     "id": 55,
     "url": "https://www.themadblogger.com/Front-License-Plate-laws-in-Missouri",

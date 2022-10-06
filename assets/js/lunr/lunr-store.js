@@ -408,7 +408,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Kanye West Killed Evil Knievel",
-        "excerpt":"Coincidence that Evil Knievel (Evil Kenievel) just settled a lawsuit with Kanye West? And now he's died? TMB thinks not! Did Kanye West kill Evil Knievel (Evil Kenievel)?   http://www.cnn.com/2007/SHOWBIZ/TV/11/30/obit.knievel/index.html  ","categories": [],
+        "excerpt":"Coincidence that Evil Knievel (Evil Kenievel) just settled a lawsuit with Kanye West? And now he’s died? TMB thinks not! Did Kanye West kill Evil Knievel (Evil Kenievel)?   CNN Article   ","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/Kanye-West-Killed-Evil-Knievel",
         "teaser": null
