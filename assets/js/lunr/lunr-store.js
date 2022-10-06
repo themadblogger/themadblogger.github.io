@@ -522,7 +522,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Injen Systems Customer Service Sucks",
-        "excerpt":"So I've been trying for 4+ months now to get some customer service from Injen Systems for the Super SES Exhaust on my Nissan 350z that has a massive leak in it. Back in August I received a response from Injen Hi TMB, Can you send me a picture of...","categories": [],
+        "excerpt":"So TMB has been trying for 4+ months now to get some customer service from Injen Systems for the Super SES Exhaust on their Nissan 350z that has a massive leak in it. Back in August TMB received a response from Injen Hi TMB, Can you send me a picture...","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/Injen-Systems-Customer-Service-Sucks",
         "teaser": null
