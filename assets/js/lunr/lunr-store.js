@@ -552,7 +552,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Pro-Tec Pest Management",
-        "excerpt":"The drivers at Pro-Tec Pest Management drive like assholes. Driving to the doctor’s office this morning, TMB is cruising along, follow the speed limit, in the left lane getting ready to get into the turn lane at the stop light coming up. Along side me pulls a pickup truck (a...","categories": [],
+        "excerpt":"The drivers at Pro-Tec Pest Management drive like assholes. Driving to the doctor’s office this morning, TMB is cruising along, follow the speed limit, in the left lane getting ready to get into the turn lane at the stop light coming up. Along the passenger side pulls a pickup truck...","categories": [],
         "tags": [],
         "url": "https://www.themadblogger.com/pro-tec-pest-management",
         "teaser": null
