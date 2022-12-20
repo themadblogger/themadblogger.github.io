@@ -16,3 +16,5 @@ Along the passenger side pulls a pickup truck (a baby one at that) at a stop lig
 The driver of the Pro-Tec Pest Management pickup truck takes off from the light, accelerating to at least 45-50 MPH in order to pass The Mad Blogger, in the 1/8th of a mile between lights. Photo taken after they passed  and then had to wait for another signal.
 
 Good job asshole, TMB hopes your company docks your pay or fires you. 
+
+If you're looking for pest management in St. Louis County be sure to look for anyone but Pro-Tec Pest Management.
