@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About TheTrashman.com
+title: About TheMadBlogger.com
 permalink: /about
 comments: false
 redirect_from: 
   - "/About"
 ---
-
-I'll wreck you
+What do you want from me?

@@ -1,3 +1,5 @@
+# Site Settings
+# You can change the settings below in order to customize your website.
 # Site
 name: "TheMadBlogger.com"
 title: "TheMadBlogger.com - Internet's Premier Waste You in a Video Game Disposal Service"
@@ -5,11 +7,14 @@ description: "You likely upset me!"
 logo: assets/images/madblogger.jpg
 favicon: 'assets/images/favicon.ico'
 baseurl: ""
-google_analytics: ' '
-disqus: 
+google_analytics: '' # configured for Google Analytics 4 MEASUREMENT ID
+# disqus: 
 mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/
+url: 'https://www.themadblogger.com'
+
+templatemessage: 'Forked from <a target="_blank" href="https://www.chrishammond.com/">Chris Hammond</a>''s JekyllExample.com'
 
 # Authors
 authors:
@@ -22,8 +27,6 @@ authors:
     twitter: RealMadBlogger
     description: "I am TheMadBlogger" 
 
-
-
 # Plugins
 plugins:
   - jekyll_picture_tag
@@ -32,8 +35,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-  
-    
+      
 # Archives
 jekyll-archives:
   enabled:
@@ -58,7 +60,7 @@ kramdown:
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3356074518164779"
+adsense-data-ad-client: ""
 adsense-data-ad-slot: ""
 
 # Lazy Images ("enabled" or "disabled")
@@ -81,3 +83,5 @@ picture:
       source_default:
         width: "300"
 
+# exclude:
+#  - /assets/images/*
