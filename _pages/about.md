@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About TheMadBlogger.com
+title: About TheTrashman.com
 permalink: /about
 comments: false
 redirect_from: 

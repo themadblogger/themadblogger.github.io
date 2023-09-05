@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TheMadBlogger.com Videos
+title: TheTrashman.com Videos
 permalink: /videos
 comments: false
 redirect_from: 
