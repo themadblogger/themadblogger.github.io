@@ -12,7 +12,7 @@ var documents = [{
     }, {
     "id": 2,
     "url": "/about",
-    "title": "About TheMadBlogger.com",
+    "title": "About TheTrashman.com",
     "body": "I’ll wreck you "
     }, {
     "id": 3,
@@ -27,7 +27,7 @@ var documents = [{
     }, {
     "id": 5,
     "url": "/videos",
-    "title": "TheMadBlogger.com Videos",
+    "title": "TheTrashman.com Videos",
     "body": "Videos coming soon "
     }, {
     "id": 6,
