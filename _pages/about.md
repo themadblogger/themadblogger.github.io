@@ -6,4 +6,4 @@ comments: false
 redirect_from: 
   - "/About"
 ---
-What do you want from me?
+I'm mad

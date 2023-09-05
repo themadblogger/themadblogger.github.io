@@ -1,20 +1,19 @@
 # Site Settings
 # You can change the settings below in order to customize your website.
-# Site
 name: "TheMadBlogger.com"
 title: "TheMadBlogger.com - Internet's Premier Waste You in a Video Game Disposal Service"
 description: "You likely upset me!"
 logo: assets/images/madblogger.jpg
 favicon: 'assets/images/favicon.ico'
+url: https://www.themadblogger.com
 baseurl: ""
 google_analytics: '' # configured for Google Analytics 4 MEASUREMENT ID
 # disqus: 
 mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/
-url: 'https://www.themadblogger.com'
 
-templatemessage: 'Forked from <a target="_blank" href="https://www.chrishammond.com/">Chris Hammond</a>''s JekyllExample.com'
+templatemessage: 'Forked from <a target="_blank" href="https://www.chrishammond.com/">Chris Hammond</a>''s <a href="https://jekyllexample">JekyllExample.com</a>.'
 
 # Authors
 authors:
@@ -26,7 +25,7 @@ authors:
     web: https://www.TheMadBlogger.com
     twitter: RealMadBlogger
     description: "I am TheMadBlogger" 
-
+    
 # Plugins
 plugins:
   - jekyll_picture_tag
