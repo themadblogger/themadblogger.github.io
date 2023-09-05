@@ -4,9 +4,9 @@ title: "TheMadBlogger.com - Internet's Premier Waste You in a Video Game Disposa
 description: "You likely upset me!"
 logo: assets/images/madblogger.jpg
 favicon: 'assets/images/favicon.ico'
-baseurl: ""
-google_analytics: ' '
-disqus: 
+url: https://www.themadblogger.com
+baseurl: 
+google_analytics: 'UA-69145-5'
 mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/
@@ -21,7 +21,6 @@ authors:
     web: https://www.TheMadBlogger.com
     twitter: RealMadBlogger
     description: "I am TheMadBlogger" 
-
 
 
 # Plugins
@@ -58,7 +57,7 @@ kramdown:
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3356074518164779"
+adsense-data-ad-client: "ca-pub-"
 adsense-data-ad-slot: ""
 
 # Lazy Images ("enabled" or "disabled")

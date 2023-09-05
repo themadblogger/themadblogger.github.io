@@ -7,7 +7,4 @@ redirect_from:
   - "/About"
 ---
 
-You've likely upset TheMadBlogger
-
-What next?
-
+I'll wreck you
