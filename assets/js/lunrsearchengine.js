@@ -443,7 +443,7 @@ var documents = [{
     "id": 88,
     "url": "https://www.themadblogger.com/blogs-empower-character-assassins-and-mischief-makers",
     "title": "blogs empower character assassins and mischief makers.",
-    "body": "2006/10/12 - Who's that sound like? The Mad Blogger? noooo! TMB isn't a character assassin, The Mad Blogger is a truth spreader. Everything that TMB has posted has been the truth, which is not to be mistaken for libel. Libel is when you spread misinformation, TMB prides himself in spreading only the truth. IT may not be the truth people want to hear, but it is the truth. Interested in learning more about lawsuits and bloggers? Check out this article from the USA Today. "
+    "body": "2006/10/12 - Who’s that sound like? The Mad Blogger? noooo! TMB isn’t a character assassin, The Mad Blogger is a truth spreader. Everything that TMB has posted has been the truth, which is not to be mistaken for libel. Libel is when you spread misinformation, TMB prides himself in spreading only the truth. IT may not be the truth people want to hear, but it is the truth. Interested in learning more about lawsuits and bloggers? Check out this article from the USA Today. "
     }, {
     "id": 89,
     "url": "https://www.themadblogger.com/Yankees-Suck-and-the-players-know-it-Suicide-attempt-for-Cory-Lidle",
