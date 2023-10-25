@@ -3,7 +3,7 @@ layout: post
 title: Roofing and Exterior Pros
 date: '2023-10-24T18:00:00+00:00'
 permalink: roofingandexteriorpros
-image: roofingandexteriorpros-1.jpg
+image: 2023/roofingandexteriorpros-1.jpg
 categories: ''
 featured: true
 ---
