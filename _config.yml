@@ -13,7 +13,7 @@ mailchimp-list:
 include: ["_pages"]
 permalink: /:title/
 
-templatemessage: 'Forked from <a target="_blank" href="https://www.chrishammond.com/">Chris Hammond</a>''s <a href="https://jekyllexample">JekyllExample.com</a>.'
+templatemessage: 'Are you mad?'
 
 # Authors
 authors:
