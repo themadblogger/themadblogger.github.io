@@ -17,10 +17,10 @@ featured: true
 
 and of course from [an online review](https://www.trustindex.io/reviews/roofingandexteriorpros.com):
 
-> This morning in downtown St. Louis, I watched the driver of a Roofing & Exterior Pros truck leave his vehicle to assault a driver who made the mistake of honking at him. The passenger of the Roofing & Exterior Pros truck also left the vehicle apparently to provide the driver with backup. The victim suffered numerous severe injuries to his face as the Roofing & Exterior Pros driver punched and kicked him repeatedly. 
-> I've posted photos of the assault. The SLMPD has better video of the event, but I am not allowed to post them. 
-> The driver than exchanged words with a driver of another vehicle and then started to chase the vehicle through the streets of downtown. Per SLMPD, the driver of the Roofing & Exterior Pros truck shot numerous times at the vehicle being chased. 
-> I reluctantly write this but feel it's important that the public is aware of this company's behavior.
+> This morning in downtown St. Louis, I watched the driver of a Roofing & Exterior Pros truck leave his vehicle to assault a driver who made the mistake of honking at him. The passenger of the Roofing & Exterior Pros truck also left the vehicle apparently to provide the driver with backup. The victim suffered numerous severe injuries to his face as the Roofing & Exterior Pros driver punched and kicked him repeatedly.  
+> I've posted photos of the assault. The SLMPD has better video of the event, but I am not allowed to post them.  
+> The driver than exchanged words with a driver of another vehicle and then started to chase the vehicle through the streets of downtown. Per SLMPD, the driver of the Roofing & Exterior Pros truck shot numerous times at the vehicle being chased.  
+> I reluctantly write this but feel it's important that the public is aware of this company's behavior.  
 
 Really curious if one of the gentleman in the photo are the owner Jake Ehlinger the "owner" though his wife is on record with the state as the owner, or if they're just employees. Either way, not a good look for the company.
 
