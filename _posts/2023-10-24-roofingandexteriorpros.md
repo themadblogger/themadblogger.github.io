@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Roofing and Exterior Pros
+title: Roofing and Exterior Pros in Ellisville, Missouri
 date: '2023-10-24T18:00:00+00:00'
 permalink: roofingandexteriorpros
 image: 2023/roofingandexteriorpros-1.jpg
-categories: ''
+categories: 'bad actors, roofing, st louis county'
 featured: true
 ---
 [Check out the type of folks that work at Roofing and Exterior Pros](https://twitter.com/Citizens4STL/status/1716438318122967367)
