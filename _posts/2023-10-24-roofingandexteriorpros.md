@@ -5,8 +5,9 @@ date: '2023-10-24T18:00:00+00:00'
 permalink: roofingandexteriorpros
 image: 2023/roofingandexteriorpros-1.jpg
 categories: bad roofing stl
-featured: true
+featured: false
 ---
+<!--
 [Check out the type of folks that work at Roofing and Exterior Pros](https://twitter.com/Citizens4STL/status/1716438318122967367)
 
 > Yesterday, Sunday, at ~8:30 AM at 10th & Clark, we witnessed a guy beat the s&@$ out of a guy in a road rage incident. The victim made the mistake of honking at him for running a red light. He then made the mistake of leaving his door unlocked.  
@@ -30,3 +31,4 @@ Probably won't find them online anyways, looks like their Facebook page, Google 
 
 
 
+-->
