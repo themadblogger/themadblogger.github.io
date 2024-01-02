@@ -23,7 +23,7 @@ Good luck getting B&B Theaters to respond to you either. While they might actual
 
 ## Please check out one of these theaters close to Wildwood:
 
-[AMC Chesterfield 14 located in the Chesterfield Mall](https://www.amctheatres.com/movie-theatres/st-louis/amc-classic-chesterfield-14)
+[AMC Chesterfield 14 located in the Chesterfield Mall (CLOSED)]
 
 [Marcus Theaters in Chesterfield, Missouri](https://www.marcustheatres.com/theatre-locations/marcus-chesterfield-galaxy-14-mega)
 
