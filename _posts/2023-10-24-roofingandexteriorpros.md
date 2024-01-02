@@ -7,7 +7,7 @@ keywords: "bad, roofing, roof, storm, damage, repair, violence, st. louis"
 permalink: roofingandexteriorpros
 image: 2023/roofingandexteriorpros-1.jpg
 categories: bad roofing stl
-featured: false
+featured: true
 ---
 
 [Check out the type of folks that work at Roofing and Exterior Pros](https://twitter.com/Citizens4STL/status/1716438318122967367)
