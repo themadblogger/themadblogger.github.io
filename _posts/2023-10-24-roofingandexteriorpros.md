@@ -7,7 +7,7 @@ image: 2023/roofingandexteriorpros-1.jpg
 categories: bad roofing stl
 featured: false
 ---
-<!--
+
 [Check out the type of folks that work at Roofing and Exterior Pros](https://twitter.com/Citizens4STL/status/1716438318122967367)
 
 > Yesterday, Sunday, at ~8:30 AM at 10th & Clark, we witnessed a guy beat the s&@$ out of a guy in a road rage incident. The victim made the mistake of honking at him for running a red light. He then made the mistake of leaving his door unlocked.  
@@ -23,12 +23,10 @@ and of course from [an online review](https://www.trustindex.io/reviews/roofinga
 > The driver than exchanged words with a driver of another vehicle and then started to chase the vehicle through the streets of downtown. Per SLMPD, the driver of the Roofing & Exterior Pros truck shot numerous times at the vehicle being chased.  
 > I reluctantly write this but feel it's important that the public is aware of this company's behavior.  
 
-Really curious if one of the gentleman in the photo are the owner Jake Ehlinger the "owner" though his wife is on record with the state as the owner, or if they're just employees. Either way, not a good look for the company.
+Really curious if one of the gentleman in the photo are the owner Jake Ehlinger (John Jacob Ehlinger has a lot of Missouri Case Net files) the "owner" though his wife is on record with the state as the owner, or if they're just employees. Either way, not a good look for the company.
 
 If you're looking for a roofing company in St. Louis County be sure to look for anyone but Roofing and Exterior Pros!
 
 Probably won't find them online anyways, looks like their Facebook page, Google Listing and other social media profiles are all gone!
 
-
-
--->
+Update January 2024: Looks like they have tried to "clean up" their online profiles. The TrustReview account appears to have been purged. Their Facebook page is live again, no reviews or negative comments. 
