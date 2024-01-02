@@ -7,7 +7,7 @@ logo: assets/images/madblogger.jpg
 favicon: 'assets/images/favicon.ico'
 url: https://www.themadblogger.com
 baseurl: ""
-google_analytics: '' # configured for Google Analytics 4 MEASUREMENT ID
+google_analytics: 'G-ZEWKSGFGHJ' # configured for Google Analytics 4 MEASUREMENT ID
 disqus: TheMadBlogger
 mailchimp-list: 
 include: ["_pages"]
