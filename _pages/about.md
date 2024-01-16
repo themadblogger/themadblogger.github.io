@@ -6,10 +6,6 @@ comments: false
 redirect_from: 
   - "/About"
 ---
----
-title: "About - TheMadBlogger.com"
----
-
 ## Who is The Mad Blogger?
 
 Welcome to TheMadBlogger.com, the brainchild of a man who's had his fair share of frustrating encounters with businesses. It all started in South County, St. Louis, at a car dealership that would change the course of his life. The service was so abysmal that it ignited a spark within him, compelling him to register a domain name and pen his very first blog post detailing the poor service he received.
