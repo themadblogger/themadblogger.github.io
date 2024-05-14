@@ -31,4 +31,44 @@ If you're looking for a roofing company in St. Louis County be sure to look for 
 
 Probably won't find them online anyways, looks like their Facebook page, Google Listing and other social media profiles are all gone!
 
-Update January 2024: Looks like they have tried to "clean up" their online profiles. The TrustReview account appears to have been purged. Their Facebook page is live again, no reviews or negative comments. 
+## Update January 2024:
+
+Looks like they have tried to "clean up" their online profiles. The TrustReview account appears to have been purged. Their Facebook page is live again, no reviews or negative comments. 
+
+## Update May 2024:
+
+John Jacob Ehlinger has been [charged](https://www.ksdk.com/article/news/local/man-accused-of-downtown-st-louis-road-rage-attack-now-out-on-bond-facing-charges/63-4d73174d-84e8-4d66-9821-689cdafa6816) with quite a lot. Missouri Case Net shows he has an address of 813 BIG BEND WOODS DR BALLWIN, MO 63021
+
+### Missouri business details show 
+
+Name(s)  
+Roofing and Exterior Pros, LLC  
+Principal Office Address  
+10 Strecker Rd  
+Ellisville, MO 63011  
+Type  
+Limited Liability Company  
+Charter No.  
+LC1795811  
+Domesticity  
+Domestic  
+Home State  
+Registered Agent  
+hyde, alexandra a  
+813 big bend woods dr  
+manchester, MO 63021  
+Status  
+Active  
+Date Formed  
+6/17/2021  
+
+So it looks like [John Jacob Ehlinger](https://www.reddit.com/r/StLouis/comments/1ahkjgc/john_jacob_ehlinger_back_at_it_again/) still lives with the lady who is registered as the business owner. He also was on probation as of September 12, 2023. [Dude even got into a fight with MLB players](https://www.stltoday.com/news/local/crime-courts/man-charged-in-st-louis-road-rage-beating-was-in-2014-brawl-with-cardinals-players/article_f58bb696-848f-11ee-b522-a7610796ffb2.html#:~:text=John%20%E2%80%9CJake%E2%80%9D%20Ehlinger%2C%2035,lawsuit%20but%20no%20criminal%20charges.)
+
+If you look at recent Google Reviews for the business there's a "Jake" who is responding, claiming that "John" is no longer part of the business. 
+
+So who is who with this business? 
+
+Would you give Roofing & Exterior Pros your money? Not if you're smart.
+
+
+
