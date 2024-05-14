@@ -143,7 +143,7 @@ var documents = [{
     "id": 28,
     "url": "https://www.themadblogger.com/Injen-Systems-Customer-Service-Sucks",
     "title": "Injen Systems Customer Service Sucks",
-    "body": "2010/12/28 - So TMB has been trying for 4+ months now to get some customer service from Injen Systems for the Super SES Exhaust on their Nissan 350z that has a massive leak in it. Back in August TMB received a response from Injen Hi TMB, Can you send me a picture of your exhaust? I guess we had a few different ones made for that same vehicle and a photo would make it much easier to figure out what part and get you the correct part. TMB responded with photos of the exhaust and what they needed. TMB has heard nothing back. They've emailed them multiple times, even emailing their tech and info email addresses, but so far TMB has not received a single response from them since that email quoted above. TMB sure wishese they could get some help, previously TMB actually liked the exhaust on my 350z, but this has to be the worst customer service ever!  UPDATE: Good News! Injen came through! The car is all back to normal now and the leaky pipes were replaced! https://www. project350z. com/injen-super-ses-installation-on-the-350z "
+    "body": "2010/12/28 - So TMB has been trying for 4+ months now to get some customer service from Injen Systems for the Super SES Exhaust on their Nissan 350z that has a massive leak in it. Back in August TMB received a response from Injen  Hi TMB,  Can you send me a picture of your exhaust? I guess we had a few different ones made for that same vehicle and a photo would make it much easier to figure out what part and get you the correct part. TMB responded with photos of the exhaust and what they needed. TMB has heard nothing back. They’ve emailed them multiple times, even emailing their tech and info email addresses, but so far TMB has not received a single response from them since that email quoted above. TMB sure wishese they could get some help, previously TMB actually liked the exhaust on my 350z, but this has to be the worst customer service ever! UPDATE: Good News! Injen came through! The car is all back to normal now and the leaky pipes were replaced! "
     }, {
     "id": 29,
     "url": "https://www.themadblogger.com/A-word-of-warning-for-the-Samsung-LN40C630K1F",
@@ -153,12 +153,12 @@ var documents = [{
     "id": 30,
     "url": "https://www.themadblogger.com/Dont-trust-Glenn-Hyundai-in-Kentucky",
     "title": "Don't trust Glenn Hyundai in Kentucky",
-    "body": "2010/01/20 - If you're shopping for a car, TMB highly recommends you stay away from Glenn Hyundai in Lexington Kentucky. There are a few stories going around on the internet in which a sales guy at Glenn Hyundai put the car on Ebay, and now won't sell the car at the final selling price of the auction. Even threatening the buyer with a lawsuit if he doesn't stop posting on the internet. You can find more on the story from Jalopnik and Autoblogs.  Sounds like something Glendale Chrysler would try to pull, don't shop there either! They have previously employed people who steal identities from car buyers.  "
+    "body": "2010/01/20 - If you’re shopping for a car, TMB highly recommends you stay away from Glenn Hyundai in Lexington Kentucky. There are a few stories going around on the internet in which a sales guy at Glenn Hyundai put the car on Ebay, and now won’t sell the car at the final selling price of the auction. Even threatening the buyer with a lawsuit if he doesn’t stop posting on the internet. You can find more on the story from Jalopnik and Autoblogs Sounds like something Glendale Chrysler would try to pull, don’t shop there either! They have previously employed people who steal identities from car buyers. "
     }, {
     "id": 31,
     "url": "https://www.themadblogger.com/Bringing-sexy-back",
     "title": "Bringing sexy back",
-    "body": "2009/11/02 - TMB thinks it is time to bring back the site. The Mad Blogger is back baby, look out. Here are some of our previous 'best' posts Why you shouldn't go to Glendale Chrysler Charter Communications Still Sucks Southtown Dodge has bad sales people Stay tuned for more rants coming soon! "
+    "body": "2009/11/02 - TMB thinks it is time to bring back the site. The Mad Blogger is back baby, look out. Here are some of our previous ‘best’ posts Why you shouldn’t go to Glendale Chrysler Charter Communications Still Sucks Southtown Dodge has bad sales people Stay tuned for more rants coming soon! "
     }, {
     "id": 32,
     "url": "https://www.themadblogger.com/Clinton-calls-base-closure-decision-regrettable-From-the-family-that-closed-how-many",
