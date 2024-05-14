@@ -218,7 +218,7 @@ var documents = [{
     "id": 43,
     "url": "https://www.themadblogger.com/Charter-Youre-saving-TMB-Money",
     "title": "Charter? You're saving TMB Money?",
-    "body": "2008/04/28 - The Mad Blogger really doesn't know what to say. Late last week TMB was at home, mid afternoon the phone rings. It's Charter, great, calling to sell TMB on some services he doesn't need, for prices he doesn't want to pay. At least that was the thought, what really happened was a bit different though. Charter actually called to offer a discount on their 10mb high speed internet service, TMB could save $5/month by signing up for basic cable. 5 whole dollars a month, wow! TMB didn't take the bait, instead he asked if there were any better deals, to which he was immediately shot down, but then she came back and said, let me check. A few moments later the Charter rep offered to cut the bill by $25/month, all for simplying letting Charter turn on basic cable. SOLD! Now, The Mad Blogger will wait and see what happens this coming Saturday when Charter shows up and is told to hook up a nonexistant TV in the basement. TMB has no need for basic cable, except to get that $25 discount, as TMB has Dish Network and loves the service and hardware. "
+    "body": "2008/04/28 - The Mad Blogger really doesn’t know what to say. Late last week TMB was at home, mid afternoon the phone rings. It’s Charter, great, calling to sell TMB on some services he doesn’t need, for prices he doesn’t want to pay. At least that was the thought, what really happened was a bit different though. Charter actually called to offer a discount on their 10mb high speed internet service, TMB could save $5/month by signing up for basic cable. 5 whole dollars a month, wow! TMB didn’t take the bait, instead he asked if there were any better deals, to which he was immediately shot down, but then she came back and said, let me check. A few moments later the Charter rep offered to cut the bill by $25/month, all for simplying letting Charter turn on basic cable. SOLD! Now, The Mad Blogger will wait and see what happens this coming Saturday when Charter shows up and is told to hook up a nonexistant TV in the basement. TMB has no need for basic cable, except to get that $25 discount, as TMB has Dish Network and loves the service and hardware. "
     }, {
     "id": 44,
     "url": "https://www.themadblogger.com/Glendale-Chrysler-Sucks",
@@ -253,7 +253,7 @@ var documents = [{
     "id": 50,
     "url": "https://www.themadblogger.com/Warming-up-the-keyboard",
     "title": "Warming up the keyboard",
-    "body": "2007/10/04 - TheMadBlogger might be warming up his keyboard once again, if so, the topic might be another dealership rant, just like the rant that started TheMadBlogger. com, TMB's dealings with SouthTown Dodge. "
+    "body": "2007/10/04 - TheMadBlogger might be warming up his keyboard once again, if so, the topic might be another dealership rant, just like the rant that started TheMadBlogger. com, TMB’s dealings with SouthTown Dodge. "
     }, {
     "id": 51,
     "url": "https://www.themadblogger.com/Opera-star-Luciano-Pavarotti-dies",
@@ -268,7 +268,7 @@ var documents = [{
     "id": 53,
     "url": "https://www.themadblogger.com/Breaking-News-SpaceshipTwo-from-Scaled-Composites--blew-up",
     "title": "Breaking News, SpaceshipTwo from Scaled Composites  blew up",
-    "body": "2007/07/26 - TMB is getting word from our associates out in neverneverland that SpaceshipTwo (2) from Scaled Composites was undergoing ground tests and has blown up. There are people injured and emergency vehicles everywhere. More details to follow! For now our thoughts and prayers are with the injured and their families. Update: The latest word is a rocket being tested for SpaceShipTwo underwent catastrophic failure with 3 people currently losing their lives. More news as it comes.   Tags: SpaceShipTwo SpaceShip Two Scaled Composites "
+    "body": "2007/07/26 - TMB is getting word from our associates out in neverneverland that SpaceshipTwo (2) from Scaled Composites was undergoing ground tests and has blown up. There are people injured and emergency vehicles everywhere. More details to follow! For now our thoughts and prayers are with the injured and their families. Update: The latest word is a rocket being tested for SpaceShipTwo underwent catastrophic failure with 3 people currently losing their lives. More news as it comes. Tags: SpaceShipTwo SpaceShip Two Scaled Composites "
     }, {
     "id": 54,
     "url": "https://www.themadblogger.com/Southwest-Industrial-Gases-Inc-Explosions-in-Dallas",
@@ -278,7 +278,7 @@ var documents = [{
     "id": 55,
     "url": "https://www.themadblogger.com/Dont-go-to-Glendale-Chrysler-in-St-louis-MO",
     "title": "Don't go to Glendale Chrysler in St. louis, MO",
-    "body": "2007/07/23 - A good friend told TheMadBlogger that he had the worst experience you could imagine with Glendale Chrysler, actually you wouldn’t believe the story if TMB typed it here! TMB would highly recommend going to another St. Louis Chrysler Dealership instead of going to Glendale. Glendale Chrysler Sucks! Shop elsewhere! "
+    "body": "2007/07/23 - A good friend told TheMadBlogger that he had the worst experience you could imagine with Glendale Chrysler, actually you wouldn’t believe the story if TMB typed it here! (Dude had his identity stolen by his sales person at Glendale Chrysler. When he figured out who it was, and how they did it, he reached out to Glendale Chrysler and was told to buzz off. They took no responsibility for their employee’s actions. ) TMB would highly recommend going to another St. Louis Chrysler Dealership instead of going to Glendale. Glendale Chrysler Sucks! Shop elsewhere! Why Customer Feedback Matters: When considering a purchase, especially one as significant as a vehicle, customer experiences and dealership reviews can be incredibly influential. Here’s why:  Trust and Credibility: Reviews from real customers add a layer of trust and credibility to a business. They provide insight into the quality of service and product reliability.  Improvement and Accountability: Negative feedback, while often hard to hear, is a valuable tool for any business. It highlights areas needing improvement and holds the dealership accountable for their service standards.  Informed Decisions: For potential customers, reviews are a source of information that can help them make more informed decisions. They can learn from the experiences of others to avoid potential issues. How to Handle Negative Reviews: If you’re a business owner facing negative reviews, here’s a constructive approach to handling them:  Acknowledge the Issue: Respond to the review publicly, acknowledging the customer’s experience and expressing regret that they were dissatisfied.  Take Responsibility: Where appropriate, take responsibility for any mistakes and offer an explanation if there were misunderstandings.  Offer a Solution: Propose a solution or ask the customer to get in touch directly to resolve the issue.  Follow Up: Ensure that the problem is resolved to the customer’s satisfaction and follow up to confirm this.  Learn and Improve: Use the feedback to make necessary changes in your business practices to improve the customer experience. Encouraging Positive Engagement: While negative reviews can be daunting, they also present an opportunity for positive engagement:  Showcase Responsiveness: Demonstrating that you take customer feedback seriously can actually improve your reputation.  Highlight Improvements: Share how customer feedback has led to positive changes in your business.  Encourage Happy Customers to Share: Often, satisfied customers don’t think to leave a review. Encourage them to share their positive experiences. By incorporating these strategies, businesses can turn the tide on negative reviews and use them as a stepping stone towards excellence. "
     }, {
     "id": 56,
     "url": "https://www.themadblogger.com/Bo-Beuckman-Ford-Sucks-Actually-FORD-Sucks-too",
@@ -518,7 +518,7 @@ var documents = [{
     "id": 103,
     "url": "https://www.themadblogger.com/Why-buy-an-SUV-now",
     "title": "Why buy an SUV now?",
-    "body": "2006/09/14 - The Mad Blogger just recently did, you should too. Here’s why. "
+    "body": "2006/09/14 - The Mad Blogger just recently did, you should too. Here’s why. Update 2024:: So this article orginally linked to a MSN Money article, likely about gas prices or something. Well, gas prices haven’t gone away, but most Sedans have. The world drives SUVs now. At least America does. "
     }, {
     "id": 104,
     "url": "https://www.themadblogger.com/Rockstar-Supernova-Finale",
