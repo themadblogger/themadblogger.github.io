@@ -163,17 +163,17 @@ var documents = [{
     "id": 32,
     "url": "https://www.themadblogger.com/Clinton-calls-base-closure-decision-regrettable-From-the-family-that-closed-how-many",
     "title": "Clinton calls base-closure decision 'regrettable' From the family that closed how many?",
-    "body": "2009/02/06 - The Mad Blogger finds this headline on CNN about the closing of the US Military base in Kyrgyzstan extremely annoying. http://www. cnn. com/2009/POLITICS/02/05/clinton. kyrgyzstan/index. html Wasn't it her f'n husband who closed down a LARGE number of US Military bases in our own country? TMB is not a Clinton fan. "
+    "body": "2009/02/06 - The Mad Blogger finds this headline on CNN about the closing of the US Military base in Kyrgyzstan extremely annoying. http://www. cnn. com/2009/POLITICS/02/05/clinton. kyrgyzstan/index. html Wasn’t it her f’n husband who closed down a LARGE number of US Military bases in our own country? TMB is not a Clinton fan. "
     }, {
     "id": 33,
     "url": "https://www.themadblogger.com/Tropical-Smoothie-Cafe-is-open-again-in-Des-Peres",
     "title": "Tropical Smoothie Cafe is open again in Des Peres!",
-    "body": "2008/12/13 - The Mad Blogger is a happy guy again. Tropical Smoothie Cafe opened back up in Des Peres. So far this week TMB has had a wrap and two smoothies from TSC. Unfortunately TMBs tastes for the Tropical Smoothie Cafe wraps has gone away, not because the store opened back up, they were starting to wear thin before it closed down. TMB loves the wraps from Crazy Bowls and Wraps, TSC's wraps just don't compare. Tropical Smoothie sure does have the best smoothies though! Thanks for opening back up! "
+    "body": "2008/12/13 - The Mad Blogger is a happy guy again. Tropical Smoothie Cafe opened back up in Des Peres. So far this week TMB has had a wrap and two smoothies from TSC. Unfortunately TMBs tastes for the Tropical Smoothie Cafe wraps has gone away, not because the store opened back up, they were starting to wear thin before it closed down. TMB loves the wraps from Crazy Bowls and Wraps, TSC’s wraps just don’t compare. Tropical Smoothie sure does have the best smoothies though! Thanks for opening back up! "
     }, {
     "id": 34,
     "url": "https://www.themadblogger.com/The-irony-of-a-car-theft",
     "title": "The irony of a car theft",
-    "body": "2008/11/30 - Check out this story in the St. Louis Post Dispatch about 6 car thieves. http://www. stltoday. com/stltoday/news/stories. nsf/stlouiscitycounty/story/A29AC63FA4D998E38625751100143735?OpenDocument Two separate cars, 6 people total, crash into each other and 2 of them die. Irony? Justice? What do you think? "
+    "body": "2008/11/30 - Check out this story in the St. Louis Post Dispatch about 6 car thieves. Link No Longer Available Two separate cars, 6 people total, crash into each other and 2 of them die. Irony? Justice? What do you think? Update 2024:: Websites that kill old URLs really chap TMB’s hide "
     }, {
     "id": 35,
     "url": "https://www.themadblogger.com/SteepAndCheapcom-Great-Customer-Service",
@@ -533,7 +533,7 @@ var documents = [{
     "id": 106,
     "url": "https://www.themadblogger.com/Gas-in-St-Louis-Missouri",
     "title": "Gas in St. Louis Missouri",
-    "body": "2006/09/10 - The Mad Blogger is loving the recent cheap gas prices here in St. Louis. After buying a large gas guzzling SUV gas prices have dropped down to 2. 29 for the cheap stuff! Rock on, score one for TMB. "
+    "body": "2006/09/10 - The Mad Blogger is loving the recent cheap gas prices here in St. Louis. After buying a large gas guzzling SUV gas prices have dropped down to 2. 29 for the cheap stuff! Rock on, score one for TMB. Affordable Gas Prices in St. Louis - A Relief for SUV Owners: In a delightful turn of events for SUV owners, St. Louis, Missouri is witnessing a significant drop in gas prices. The current rate of $2. 29 per gallon for regular unleaded fuel is a welcome change, especially for those who have recently invested in large, fuel-consuming vehicles. The Impact of Lower Gas Prices:  Economic Benefits: The reduction in gas prices leaves more money in the pockets of consumers, potentially leading to increased spending in other sectors of the economy.  Consumer Confidence: As fuel costs decline, consumer confidence often rises, leading to a more robust and dynamic market.  Environmental Considerations: While lower prices may encourage increased driving, it’s essential to balance this with environmental sustainability efforts. Future Outlook:  Market Fluctuations: Gas prices are subject to change due to various factors such as crude oil prices, geopolitical events, and supply and demand dynamics.  Energy Alternatives: The trend towards renewable energy sources and electric vehicles is likely to influence future fuel pricing and availability. Conclusion: The current low gas prices in St. Louis are a boon for those with gas-guzzling vehicles. However, it’s crucial to remain mindful of the broader economic and environmental implications as we navigate the ever-changing energy landscape. The Mad Blogger celebrates these moments and encourages discussions around economic trends and sustainable living. Join the conversation and share your thoughts on how the fluctuating gas prices affect you. "
     }, {
     "id": 107,
     "url": "https://www.themadblogger.com/UPS-Insurance-Sucks",
