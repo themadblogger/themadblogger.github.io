@@ -92,11 +92,13 @@ featured_image:  something.jpg
 
             <!-- Post Categories -->
             <div class="after-post-cats">
+                <h4><small><a href="/category">Categories:</a></small></h4>
                 <ul class="tags mb-4">
                     {% assign sortedCategories = page.categories | sort %}
                     {% for category in sortedCategories %}
+                    
                     <li>
-                        <a class="smoothscroll" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>
+                        <a class="smoothscroll btn-secondary" href="{{site.baseurl}}/category/{{ category | url_escape | strip | slugify }}/">{{ category }}</a>
                     </li>
                     {% endfor %}
                 </ul>
