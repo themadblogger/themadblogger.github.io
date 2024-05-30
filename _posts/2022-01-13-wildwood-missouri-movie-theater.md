@@ -5,13 +5,15 @@ date:   2022-01-13 09:00:09 -0600
 description: If you're looking for a movie theater in Wildwood, Missouri, we recommend you visit somewhere other than B&B Theatres. 
 image: MovieTheater-1.jpg
 featured: true
-categories: 
+categories: [ missouri, 'movie theater', food ]
 ---
+## Update
+After 1 month, we finally got B&B Theaters to process a proper refund. Unsure if we will ever go back. 
 
-# Update
-After 1 month, we finally got B&B Theaters to process a proper refund. Unsure if we will ever go back.
+### Update 2
+TMB has been back to B&B Theaters in Wildwood, but isn't usually happy about it. Often times you walk in and it's smokey from the burnt popcorn....
 
-# Original Post
+## Original Post
 
 There is one movie theater in Wildwood Missouri, and based on poor customer service experiences with B&B Theaters in Wildwood, it is not our recommendation that you patronize their theater.
 
@@ -21,7 +23,7 @@ If you purchase tickets for a movie online, you will be charged a service fee. I
 
 Good luck getting B&B Theaters to respond to you either. While they might actually respond to a "review" posted on Google Maps ratings, they won't go any further than that. 
 
-## Please check out one of these theaters close to Wildwood:
+### Please check out one of these theaters close to Wildwood:
 
 [AMC Chesterfield 14 located in the Chesterfield Mall (CLOSED)]
 

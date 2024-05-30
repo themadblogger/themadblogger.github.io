@@ -6,7 +6,7 @@ description: "Buyer beware when dealing with these guys! They might beat you up"
 keywords: "bad, roofing, roof, storm, damage, repair, violence, st. louis"
 permalink: roofingandexteriorpros
 image: 2023/roofingandexteriorpros-1.jpg
-categories: [ bad, roofing, stl ]
+categories: [ bad, roofing, stl, drivers ]
 featured: true
 ---
 

@@ -22,9 +22,9 @@ authors:
     display_name: TheMadBlogger
     gravatar: 
     email: TheMadBlogger@christoc.com
-    web: https://www.TheMadBlogger.com
-    twitter: RealMadBlogger
-    description: "I am TheMadBlogger" 
+    web: https://www.themadblogger.com
+    twitter: https://twitter.com/RealMadBlogger
+    description: "I am TheMadBlogger, you may have upset me. Did I upset you?" 
     
 # Plugins
 plugins:
@@ -81,6 +81,14 @@ picture:
         height: "300"
       source_default:
         width: "300"
+
+defaults:
+  - scope:
+      path: ""  # An empty string here means all files
+      type: "posts"
+    values:
+      author: "TheMadBlogger"
+
 
 # exclude:
 #  - /assets/images/*

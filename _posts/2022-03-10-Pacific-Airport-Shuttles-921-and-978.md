@@ -4,7 +4,7 @@ title: Pacific Airport Shuttles 921 and 978
 date: '2022-03-10T01:00:00+00:00'
 permalink: Pacific-Airport-Shuttles-921-and-978
 image: 
-categories: ''
+categories: [ 'california', 'drivers' ]
 ---
 If you are in the Bay Area and are looking for a ride to the Airport, be sure to NOT use Pacific Airport Shuttles.
 
