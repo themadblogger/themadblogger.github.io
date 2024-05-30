@@ -4,7 +4,7 @@ title: Big tip, big taxes!
 date: '2006-09-01T00:00:00+00:00'
 permalink: Big-tip-big-taxes
 image: 
-categories: ''
+categories: [ taxes, people ]
 ---
 Now hear this, The Mad Blogger is not suggesting anyone try to skip paying taxes to the IRS, [but this girl should never have made a mention about this huge tip, other than to her bosses to verify it was legit](http://www.cnn.com/2006/US/08/31/bigtip.ap/index.html).
 
