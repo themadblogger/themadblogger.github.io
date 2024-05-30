@@ -328,7 +328,7 @@ var documents = [{
     "id": 65,
     "url": "https://www.themadblogger.com/Nathan-Magilow-is-an-Idiot-and-UPS-Still-fng-Sucks",
     "title": "Nathan Magilow is an Idiot, and UPS Still f'ng Sucks",
-    "body": "2007/02/12 - Nathan Magilow is an idiot, and his employer UPS still sucks the royal big one. The Mad Blogger sympathizes with Ole Chuck over there in the state of Washington.  TMB highly recommends using Fedex, as UPS sucks. Here are some past threads from TMB about UPS Sucking "
+    "body": "2007/02/12 - Nathan Magilow is an idiot, and his employer UPS still sucks the royal big one. The Mad Blogger sympathizes with Ole Chuck over there in the state of Washington. TMB highly recommends using Fedex, as UPS sucks. Here are some past threads from TMB about UPS Sucking "
     }, {
     "id": 66,
     "url": "https://www.themadblogger.com/Post-1-about-the-Superbowl-Ads-sucking-in-2007",
