@@ -3,8 +3,8 @@
 name: "TheMadBlogger.com"
 title: "TheMadBlogger.com - Internet's Premier Waste You in a Video Game Disposal Service"
 description: "You likely upset me!"
-logo: assets/images/madblogger.jpg
-favicon: 'assets/images/favicon.ico'
+logo: /assets/images/madblogger.jpg
+favicon: '/assets/images/favicon.ico'
 url: https://www.themadblogger.com
 baseurl: ""
 google_analytics: 'G-ZEWKSGFGHJ' # configured for Google Analytics 4 MEASUREMENT ID
