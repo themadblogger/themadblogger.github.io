@@ -23,7 +23,7 @@ var documents = [{
     "id": 4,
     "url": "https://www.themadblogger.com/redirects.json",
     "title": "",
-    "body": "{“/About”:”https://www. themadblogger. com/about”,”/tags”:”https://www. themadblogger. com/category”,”/tags/”:”https://www. themadblogger. com/category”} "
+    "body": "{“/About”:”https://www. themadblogger. com/about”,”/tags”:”https://www. themadblogger. com/category”,”/tags/”:”https://www. themadblogger. com/category”,”/category/”:”https://www. themadblogger. com/category”} "
     }, {
     "id": 5,
     "url": "https://www.themadblogger.com/robots.txt",
