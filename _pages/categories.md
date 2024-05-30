@@ -6,4 +6,5 @@ permalink: /category
 redirect_from:
     - /tags
     - /tags/
+    - /category/
 ---
