@@ -4,7 +4,7 @@ title: Why not to buy from Southtown Dodge, AKA Southtown Dodge Sucks
 date: '2006-08-25T00:00:00+00:00'
 permalink: Why-not-to-buy-from-Southtown-Dodge-AKA-Southtown-Dodge-Sucks
 image: 
-categories: ''
+categories: [ dodge, cars ]
 featured: false
 ---
 Well lets begin the story with a little background.

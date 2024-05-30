@@ -4,7 +4,7 @@ title: Is Viewpoint Spyware? Viewpoint Sucks!
 date: '2006-09-14T00:00:00+00:00'
 permalink: Is-Viewpoint-Spyware-Viewpoint-Sucks
 image: 
-categories: ''
+categories: [ software, spyware ]
 ---
 Damn skippy Viewpoint is Spyware. TMB doesn't care if they don't think it is (ask leo link removed). It gets installed, without your knowing, then tries to update itself via the internet.
 
