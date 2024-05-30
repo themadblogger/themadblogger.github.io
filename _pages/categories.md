@@ -1,5 +1,9 @@
 ---
 layout: categories
 title: Categories
-permalink: /categories
+permalink: /category
+
+redirect_from:
+    - /tags
+    - /tags/
 ---
