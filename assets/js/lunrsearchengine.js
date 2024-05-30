@@ -433,27 +433,27 @@ var documents = [{
     "id": 86,
     "url": "https://www.themadblogger.com/Microsoft-Zune-doesnt-work-with-Windows-Vista",
     "title": "Microsoft Zune doesn't work with Windows Vista!",
-    "body": "2006/11/16 - Hello, Microsoft? What were you thinking? You have a brand new Operating System, Windows Vista, which TMB loves btw, and a brand new Music Player, Zune, which TMB also loves, and the two don't work together! Hello??? Is there anyone out there? Left hand, meet the right hand. Vista and the Zune don't work together. WTFO? "
+    "body": "2006/11/16 - Hello, Microsoft? What were you thinking? You have a brand new Operating System, Windows Vista, which TMB loves btw, and a brand new Music Player, Zune, which TMB also loves, and the two don’t work together! Hello??? Is there anyone out there? Left hand, meet the right hand. Vista and the Zune don’t work together. WTFO? "
     }, {
     "id": 87,
     "url": "https://www.themadblogger.com/What-The-Mad-Blogger-hates-about-Winter",
     "title": "What The Mad Blogger hates about Winter",
-    "body": "2006/11/01 - The Mad Blogger is actually a Winter fan, so why would TMB write an article about what he hates about winter? Well there's one thing TMB can't stand about winter. All that damn static! The Mad Blogger loves the cold, loves any snow/ice that comes his way, but can't stand getting shocked, or having shirts cling to him whenever he taked off his jacket! Go away static, leave TMB with lots of Snow though this winter, TMB wants to test out his four-wheel-drive Tahoe! "
+    "body": "2006/11/01 - The Mad Blogger is actually a Winter fan, so why would TMB write an article about what he hates about winter? Well there’s one thing TMB can’t stand about winter. All that damn static! The Mad Blogger loves the cold, loves any snow/ice that comes his way, but can’t stand getting shocked, or having shirts cling to him whenever he taked off his jacket! Go away static, leave TMB with lots of Snow though this winter, TMB wants to test out his four-wheel-drive Tahoe! "
     }, {
     "id": 88,
     "url": "https://www.themadblogger.com/Windows-Vista-blog-and-coming-soon",
     "title": "Windows Vista blog and coming soon!",
-    "body": "2006/10/26 - The Mad Blogger is excited about Windows Vista! TMB has been running Vista on a machine for a few weeks now and is loving it! TMB Can't wait for the final release! Here's the new and improved Windows Vista Blog! Look at that, it's running on the same software as TheMadBlogger. org, though, with a much prettier look! "
+    "body": "2006/10/26 - The Mad Blogger is excited about Windows Vista! TMB has been running Vista on a machine for a few weeks now and is loving it! TMB Can’t wait for the final release! Here’s the new and improved Windows Vista Blog! Look at that, it’s running on the same software as TheMadBlogger. org, though, with a much prettier look! (link removed, software also no longer matches) "
     }, {
     "id": 89,
     "url": "https://www.themadblogger.com/blogs-empower-character-assassins-and-mischief-makers",
     "title": "blogs empower character assassins and mischief makers.",
-    "body": "2006/10/12 - Who’s that sound like? The Mad Blogger? noooo! TMB isn’t a character assassin, The Mad Blogger is a truth spreader. Everything that TMB has posted has been the truth, which is not to be mistaken for libel. Libel is when you spread misinformation, TMB prides himself in spreading only the truth. IT may not be the truth people want to hear, but it is the truth. Interested in learning more about lawsuits and bloggers? Check out this article from the USA Today. "
+    "body": "2006/10/12 - Who’s that sound like? The Mad Blogger? noooo! TMB isn’t a character assassin, The Mad Blogger is a truth spreader. Everything that TMB has posted has been the truth, which is not to be mistaken for libel. Libel is when you spread misinformation, TMB prides himself in spreading only the truth. It may not be the truth people want to hear, but it is the truth. Interested in learning more about lawsuits and bloggers? Check out this article from the USA Today (link removed) "
     }, {
     "id": 90,
     "url": "https://www.themadblogger.com/Yankees-Suck-and-the-players-know-it-Suicide-attempt-for-Cory-Lidle",
     "title": "Yankees Suck and the players know it? Suicide attempt for Cory Lidle?",
-    "body": "2006/10/11 - Did someone from the Yankees kill themselves over their recent loss to the Detroit Tigers in the playoffs? According to the AP the plane that crashed into a building in NY today was owned by a Yankees pitcher. More info from TMB as it becomes available. UPDATE:  New York Yankees manager Joe Torre says the plane that crashed into a building in Manhattan is registered to team pitcher Cory Lidle.   "
+    "body": "2006/10/11 - Update: This one didn’t age well. TMB is sorry for the loss of Cory Lidle: Did someone from the Yankees kill themselves over their recent loss to the Detroit Tigers in the playoffs? According to the AP the plane that crashed into a building in NY today was owned by a Yankees pitcher. More info from TMB as it becomes available. UPDATE: “New York Yankees manager Joe Torre says the plane that crashed into a building in Manhattan is registered to team pitcher Cory Lidle. ” "
     }, {
     "id": 91,
     "url": "https://www.themadblogger.com/Are-you-a-Lonelygirl-Follow-the-Order-of-the-Denderah",
@@ -468,7 +468,7 @@ var documents = [{
     "id": 93,
     "url": "https://www.themadblogger.com/Nemofang-we-found-you-fhy729241025-",
     "title": "Nemofang, we found you fhy729241025 ",
-    "body": "2006/10/06 - It's amazing what the internet will get you.  Here's a collection of items we've been able to dig up http://www. photolink. com. tw/cgi-bin/ShowPhoto?photo_id=fhy729241025&amp;albumIDs=411b4e41&amp;photoID=41b7873d Here's his landlord information http://offcampus. osu. edu/property_details. asp?PropertyID=10800&amp;type=lease More photos http://www. photolink. com. tw/cgi-bin/ShowAlbum?albumIDs=411b4e41&amp;photo_id=fhy729241025  http://www. wretch. cc/mypage/valorxnemo "
+    "body": "2006/10/06 - It’s amazing what the internet will get you. Here’s a collection of items we’ve been able to dig up Here’s his landlord information More photos Most of this content was removed due to invalid links: "
     }, {
     "id": 94,
     "url": "https://www.themadblogger.com/Paddington-Bear-a-Killer-Fisherman",
