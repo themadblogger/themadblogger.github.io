@@ -2,9 +2,11 @@
 layout: post
 title: Sony Mylo - TMB wants one of these
 date: '2006-09-22T00:00:00+00:00'
+last_modified_at: '2024-05-31T08:05:00+00:00'
+description: "Have you see the Sony Mylo? My online life? It's pretty cool, or was back in 2006/2007"
 permalink: Sony-Mylo---TMB-wants-one-of-these
 image: 2024/sonymylo.jpg
-categories: ''
+categories: [ electronics ]
 ---
 The Mad Blogger stumbled across something interesting today. <a href="http://www.learningcenter.sony.us/assets/itpd/mylo/prod/index.html" target="_blank">The Sony Mylo</a>. Perhaps TMB needs to go pick one of these up and give it a shot. That is, unless there's someone out there who wants to provide TMB with a free one! TMB will do a review for ya!
 
