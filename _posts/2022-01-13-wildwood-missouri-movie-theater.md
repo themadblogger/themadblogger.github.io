@@ -4,7 +4,7 @@ title:  Movie Theater in Wildwood, Missouri
 date:   2022-01-13 09:00:09 -0600
 description: If you're looking for a movie theater in Wildwood, Missouri, we recommend you visit somewhere other than B&B Theatres. 
 image: MovieTheater-1.jpg
-featured: true
+featured: false
 categories: [ missouri, 'movie theater', food ]
 ---
 ## Update

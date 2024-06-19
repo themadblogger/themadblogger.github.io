@@ -4,7 +4,7 @@ title: Charter Communications Still Sucks
 date: '2007-01-26T00:00:00+00:00'
 permalink: Charter-Communications-Still-Sucks
 image: 
-categories: ''
+categories: [ bad, cable ]
 ---
 Reason # 535,319
 

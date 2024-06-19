@@ -4,8 +4,8 @@ title: The Problem with the World Today is Talking Heads
 date: '2022-03-15T18:00:00+00:00'
 permalink: talking-heads-are-the-problem
 image: 
-categories: ''
-featured: true
+categories: [ people ]
+featured: false
 ---
 TMB had a revalation today. After spending far too many hours responding to right wing nut jobs about CRT and the threat of CRT to Rockwood School District (hint, there is no threat).
 

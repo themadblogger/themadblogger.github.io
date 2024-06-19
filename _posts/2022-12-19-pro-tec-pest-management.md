@@ -5,7 +5,7 @@ date: '2022-12-19T18:00:00+00:00'
 permalink: pro-tec-pest-management
 image: ProTec1.jpg
 categories: [ drivers, missouri, pest control ]
-featured: true
+featured: false
 ---
 The drivers at Pro-Tec Pest Management drive like assholes.
 

@@ -4,7 +4,7 @@ title: St. Louis Charter Communication doesn't have CBS in High Def
 date: '2007-01-21T00:00:00+00:00'
 permalink: St-Louis-Charter-Communication-doesnt-have-CBS-in-High-Def
 image: 
-categories: ''
+categories: [ bad, cable ]
 ---
 Yet another reason that Charter Sucks. Here in St. Louis they no longer offer CBS in High Definition.
 
