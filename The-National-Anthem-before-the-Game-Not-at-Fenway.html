@@ -79,6 +79,47 @@
 		<link href="/assets/css/main.css" rel="stylesheet" />
 
 		<script src="/assets/js/jquery.min.js"></script>
+
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "BlogPosting",
+				"url": "https://www.themadblogger.com/The-National-Anthem-before-the-Game-Not-at-Fenway",
+				"name": "The National Anthem before the Game? Not at Fenway",
+				"headline": "The National Anthem before the Game? Not at Fenway",
+				"keywords": "",
+				"description": "",
+				"articleBody": "The Mad Blogger was at Fenway today for the Opening Home Game of the 2007 Boston Red Sox Season, but TMB noticed something wasn’t right.\n\nThe Red Sox had Harry Connick Jr. there to sing “America” before the game, they even had a flyover with some National Guard F-15s, but after the flyover they just went on with Opening Ceremonies. They didn’t have anyone sing the National Anthem?\n\nHello, Red Sox, Major League Baseball? Anyone listening? Who’s idea was it to leave out the National Anthem? Every game TMB has ever gone to has had the National Anthem sung prior to the game, why was today different? This is a huge disgrace and disservice for the Men and Women who have and continue to fight for the freedom that allows us to bask in a day like opening day at Fenway Park.\n\nI hope that the Red Sox organization takes action and sees that the National Anthem is performed at all of the rest of the games held under MLB rules for the rest of 2007, and the rest of time, as it should be.\n",
+				"datePublished": "2007-04-10 00:00:00 +0000",
+				"dateModified": "2007-04-10 00:00:00 +0000",
+
+				"author": {
+					"@type": "Person",
+					"name": "TheMadBlogger",
+					"givenName": null,
+					"familyName": null,
+					"email": "TheMadBlogger@christoc.com",
+					"url": "https://www.themadblogger.com"
+				},
+
+				"publisher": {
+					"@type": "Organization",
+					"name": "TheMadBlogger.com",
+					"url": "https://www.themadblogger.com",
+					"logo": {
+						"@type": "ImageObject",
+						"width": 32,
+						"height": 32,
+						"url": "https://www.themadblogger.com//assets/images/favicon.ico"
+					}
+				},
+				"mainEntityOfPage": {
+					"@type": "WebPage",
+					"@id": "https://www.themadblogger.com//The-National-Anthem-before-the-Game-Not-at-Fenway"
+				},
+				"image": ["https://www.themadblogger.com"]
+			}
+		</script>
 	</head>
 
 	<body class="layout-post">
@@ -104,7 +145,7 @@
 			<div class="container pr-0">
 				<!-- Begin Logo -->
 				<a class="navbar-brand" href="/">
-					<img src="/assets/images/madblogger.jpg" alt="TheMadBlogger.com" />
+					<img src="//assets/images/madblogger.jpg" alt="TheMadBlogger.com" />
 				</a>
 				<!-- End Logo -->
 
@@ -130,6 +171,14 @@
 
 						<li class="nav-item">
 							<a class="nav-link" href="/about">About</a>
+						</li>
+
+						<li class="nav-item">
+							<a
+								class="nav-link"
+								href="https://github.com/ChrisHammond/jekyllexample.github.io"
+								>Github</a
+							>
 						</li>
 
 						<script src="/assets/js/lunr.js"></script>
@@ -185,20 +234,9 @@
 
 		<div class="site-content">
 			<div class="container">
-				<!-- Site Title
-================================================== -->
-				<!--
-<div class="mainheading">
-    <h1 class="sitetitle">TheMadBlogger.com</h1>
-    <p class="lead">
-         Internet's premier location for being torn down. You likely upset me!
-    </p>
-</div>
--->
-
 				<!-- Content
 ================================================== -->
-				<div class="main-content">
+				<main class="main-content">
 					<!-- Begin Article
 ================================================== -->
 					<div class="container">
@@ -281,20 +319,17 @@
 												<div
 													class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left"
 												>
-													<div itemtype="https://schema.org/Person">
-														By:
-														<a
-															class="link-dark"
-															href="https://www.themadblogger.com"
-															itemprop="sameAs"
-															><span itemprop="name">TheMadBlogger</span></a
-														><a
-															href="https://twitter.com/RealMadBlogger"
-															class="btn follow"
-															itemprop="sameAs"
-															>Follow</a
-														>
-													</div>
+													By:
+													<a
+														class="link-dark"
+														href="https://www.themadblogger.com"
+														>TheMadBlogger</a
+													>
+													<a
+														href="https://twitter.com/RealMadBlogger"
+														class="btn follow"
+														>Follow</a
+													>
 												</div>
 											</div>
 										</header>
@@ -309,7 +344,7 @@
 									<!-- End Featured Image -->
 
 									<!-- Post Content -->
-									<div class="article-post">
+									<div class="article-post" itemprop="articleBody">
 										<!-- Toc if any -->
 
 										<!-- End Toc -->
@@ -353,6 +388,9 @@
 										<div class="row post-top-meta">
 											<div
 												class="col-xs-12 col-md-12 col-lg-12 text-center text-md-left"
+												itemscope
+												itemprop="author"
+												itemtype="https://schema.org/Person"
 											>
 												<h3>About the Author:</h3>
 												<div
@@ -366,18 +404,15 @@
 												</div>
 												<div
 													class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left"
-													itemprop="author"
-													itemtype="https://schema.org/Person"
 												>
 													<a
 														class="link-dark"
 														href="https://www.themadblogger.com"
-														itemprop="sameAs"
-														><span itemprop="name">TheMadBlogger</span></a
+														itemprop="url"
+														><div itemprop="name">TheMadBlogger</div></a
 													><a
 														href="https://twitter.com/RealMadBlogger"
 														class="btn follow"
-														itemprop="sameAs"
 														>Follow</a
 													>
 												</div>
@@ -482,11 +517,7 @@
 
 					<!--End Comments
 ================================================== -->
-
-					<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
-https://search.google.com/structured-data/testing-tool/u/0/
-================================================== -->
-				</div>
+				</main>
 			</div>
 
 			<!-- Categories Jumbotron

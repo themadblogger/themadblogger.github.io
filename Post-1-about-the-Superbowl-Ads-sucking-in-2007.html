@@ -79,6 +79,47 @@
 		<link href="/assets/css/main.css" rel="stylesheet" />
 
 		<script src="/assets/js/jquery.min.js"></script>
+
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "BlogPosting",
+				"url": "https://www.themadblogger.com/Post-1-about-the-Superbowl-Ads-sucking-in-2007",
+				"name": "Post 1 about the Superbowl Ads sucking in 2007",
+				"headline": "Post 1 about the Superbowl Ads sucking in 2007",
+				"keywords": "",
+				"description": "",
+				"articleBody": "First off, TMB will be back later with a long blog post about how the super bowl ads sucked this year, but for now, who are these idiots? Todd Behrendt, Dave Doyle, Zack Faigen and Steve Miller, Foxsports never shoulda ditched the work they got from The Sporting News. Here’s what they had to say that really irked The Mad Blogger\n\n“An adorable white doggie is having a real bad day … first he gets shooed away from the butcher shop, then gets scared out of an alley by an angry pit bull-looking mutt, then longingly watches a dalmation in a parade. The he gets splashes with mud, looks like a dalmation, and life suddenly gets better. Cute, funny, well-done. How that’s supposed to make you want a beer, I’m not sure, but it was definitely clever. “\n\nHow many people don’t know wtf a Rottweiler looks like? Pitbull? TMB thinks not.\n",
+				"datePublished": "2007-02-04 00:00:00 +0000",
+				"dateModified": "2007-02-04 00:00:00 +0000",
+
+				"author": {
+					"@type": "Person",
+					"name": "TheMadBlogger",
+					"givenName": null,
+					"familyName": null,
+					"email": "TheMadBlogger@christoc.com",
+					"url": "https://www.themadblogger.com"
+				},
+
+				"publisher": {
+					"@type": "Organization",
+					"name": "TheMadBlogger.com",
+					"url": "https://www.themadblogger.com",
+					"logo": {
+						"@type": "ImageObject",
+						"width": 32,
+						"height": 32,
+						"url": "https://www.themadblogger.com//assets/images/favicon.ico"
+					}
+				},
+				"mainEntityOfPage": {
+					"@type": "WebPage",
+					"@id": "https://www.themadblogger.com//Post-1-about-the-Superbowl-Ads-sucking-in-2007"
+				},
+				"image": ["https://www.themadblogger.com"]
+			}
+		</script>
 	</head>
 
 	<body class="layout-post">
@@ -104,7 +145,7 @@
 			<div class="container pr-0">
 				<!-- Begin Logo -->
 				<a class="navbar-brand" href="/">
-					<img src="/assets/images/madblogger.jpg" alt="TheMadBlogger.com" />
+					<img src="//assets/images/madblogger.jpg" alt="TheMadBlogger.com" />
 				</a>
 				<!-- End Logo -->
 
@@ -130,6 +171,14 @@
 
 						<li class="nav-item">
 							<a class="nav-link" href="/about">About</a>
+						</li>
+
+						<li class="nav-item">
+							<a
+								class="nav-link"
+								href="https://github.com/ChrisHammond/jekyllexample.github.io"
+								>Github</a
+							>
 						</li>
 
 						<script src="/assets/js/lunr.js"></script>
@@ -185,20 +234,9 @@
 
 		<div class="site-content">
 			<div class="container">
-				<!-- Site Title
-================================================== -->
-				<!--
-<div class="mainheading">
-    <h1 class="sitetitle">TheMadBlogger.com</h1>
-    <p class="lead">
-         Internet's premier location for being torn down. You likely upset me!
-    </p>
-</div>
--->
-
 				<!-- Content
 ================================================== -->
-				<div class="main-content">
+				<main class="main-content">
 					<!-- Begin Article
 ================================================== -->
 					<div class="container">
@@ -281,20 +319,17 @@
 												<div
 													class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left"
 												>
-													<div itemtype="https://schema.org/Person">
-														By:
-														<a
-															class="link-dark"
-															href="https://www.themadblogger.com"
-															itemprop="sameAs"
-															><span itemprop="name">TheMadBlogger</span></a
-														><a
-															href="https://twitter.com/RealMadBlogger"
-															class="btn follow"
-															itemprop="sameAs"
-															>Follow</a
-														>
-													</div>
+													By:
+													<a
+														class="link-dark"
+														href="https://www.themadblogger.com"
+														>TheMadBlogger</a
+													>
+													<a
+														href="https://twitter.com/RealMadBlogger"
+														class="btn follow"
+														>Follow</a
+													>
 												</div>
 											</div>
 										</header>
@@ -309,7 +344,7 @@
 									<!-- End Featured Image -->
 
 									<!-- Post Content -->
-									<div class="article-post">
+									<div class="article-post" itemprop="articleBody">
 										<!-- Toc if any -->
 
 										<!-- End Toc -->
@@ -347,6 +382,9 @@
 										<div class="row post-top-meta">
 											<div
 												class="col-xs-12 col-md-12 col-lg-12 text-center text-md-left"
+												itemscope
+												itemprop="author"
+												itemtype="https://schema.org/Person"
 											>
 												<h3>About the Author:</h3>
 												<div
@@ -360,18 +398,15 @@
 												</div>
 												<div
 													class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left"
-													itemprop="author"
-													itemtype="https://schema.org/Person"
 												>
 													<a
 														class="link-dark"
 														href="https://www.themadblogger.com"
-														itemprop="sameAs"
-														><span itemprop="name">TheMadBlogger</span></a
+														itemprop="url"
+														><div itemprop="name">TheMadBlogger</div></a
 													><a
 														href="https://twitter.com/RealMadBlogger"
 														class="btn follow"
-														itemprop="sameAs"
 														>Follow</a
 													>
 												</div>
@@ -485,11 +520,7 @@
 
 					<!--End Comments
 ================================================== -->
-
-					<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
-https://search.google.com/structured-data/testing-tool/u/0/
-================================================== -->
-				</div>
+				</main>
 			</div>
 
 			<!-- Categories Jumbotron

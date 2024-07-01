@@ -79,6 +79,47 @@
 		<link href="/assets/css/main.css" rel="stylesheet" />
 
 		<script src="/assets/js/jquery.min.js"></script>
+
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "BlogPosting",
+				"url": "https://www.themadblogger.com/A-word-of-warning-for-the-Samsung-LN40C630K1F",
+				"name": "A word of warning for the Samsung LN40C630K1F",
+				"headline": "A word of warning for the Samsung LN40C630K1F",
+				"keywords": "",
+				"description": "The Mad Blogger shares a story of buying a new TV from Best Buy, encountering issues, and praising Best Buy's excellent customer service while getting a replacement Sony TV.",
+				"articleBody": "The Mad Blogger is back! For this post TMB is a little torn. TMB isn’t actually ranting, just giving people a word of warning, and some praise at the same time.\n\nA month ago TMB moved, and because of that decided that it was time to get a new TV for the bedroom, rather than moving the old CRT across the country. So TMB picked up a Samsung 40’ LCD TV that did 1080p and 120mhz, the model was LN40C630K1F and it was purchased from Best Buy. All seemed well at first, the TV performed great, until TMB noticed something, a blue pixel on the screen, when it shouldn’t be blue. So after about a week (of the bad pixel) the TV went back to Best Buy to get exchanged for another of the same model.\n\nI brought this new TV home and hooked it up, everything was great for a few minutes then the TV was attacked by some red vertical lines, which eventually turned to black.TMB checked connections, restarted everything, with no change. Eventually the lines went away, but they came back a few times throughout the week.\n\nToday TMB took the TV back to Best Buy and picked up a 40’ Sony LCD. Thanks to Best Buy for the great customer service! They were extremely helpful throughout the whole process. TMB went ahead and purchased their 4yr protection plan for the new TV, just in case anything goes wrong with this one.\n\nUpdate 6-19-2024: TMB still has this 40” Sony TV, it’s not the best, but it still works!\n",
+				"datePublished": "2010-05-15 00:00:00 +0000",
+				"dateModified": "2010-05-15 00:00:00 +0000",
+
+				"author": {
+					"@type": "Person",
+					"name": "TheMadBlogger",
+					"givenName": null,
+					"familyName": null,
+					"email": "TheMadBlogger@christoc.com",
+					"url": "https://www.themadblogger.com"
+				},
+
+				"publisher": {
+					"@type": "Organization",
+					"name": "TheMadBlogger.com",
+					"url": "https://www.themadblogger.com",
+					"logo": {
+						"@type": "ImageObject",
+						"width": 32,
+						"height": 32,
+						"url": "https://www.themadblogger.com//assets/images/favicon.ico"
+					}
+				},
+				"mainEntityOfPage": {
+					"@type": "WebPage",
+					"@id": "https://www.themadblogger.com//A-word-of-warning-for-the-Samsung-LN40C630K1F"
+				},
+				"image": ["https://www.themadblogger.com"]
+			}
+		</script>
 	</head>
 
 	<body class="layout-post">
@@ -104,7 +145,7 @@
 			<div class="container pr-0">
 				<!-- Begin Logo -->
 				<a class="navbar-brand" href="/">
-					<img src="/assets/images/madblogger.jpg" alt="TheMadBlogger.com" />
+					<img src="//assets/images/madblogger.jpg" alt="TheMadBlogger.com" />
 				</a>
 				<!-- End Logo -->
 
@@ -130,6 +171,14 @@
 
 						<li class="nav-item">
 							<a class="nav-link" href="/about">About</a>
+						</li>
+
+						<li class="nav-item">
+							<a
+								class="nav-link"
+								href="https://github.com/ChrisHammond/jekyllexample.github.io"
+								>Github</a
+							>
 						</li>
 
 						<script src="/assets/js/lunr.js"></script>
@@ -185,20 +234,9 @@
 
 		<div class="site-content">
 			<div class="container">
-				<!-- Site Title
-================================================== -->
-				<!--
-<div class="mainheading">
-    <h1 class="sitetitle">TheMadBlogger.com</h1>
-    <p class="lead">
-         Internet's premier location for being torn down. You likely upset me!
-    </p>
-</div>
--->
-
 				<!-- Content
 ================================================== -->
-				<div class="main-content">
+				<main class="main-content">
 					<!-- Begin Article
 ================================================== -->
 					<div class="container">
@@ -281,20 +319,17 @@
 												<div
 													class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left"
 												>
-													<div itemtype="https://schema.org/Person">
-														By:
-														<a
-															class="link-dark"
-															href="https://www.themadblogger.com"
-															itemprop="sameAs"
-															><span itemprop="name">TheMadBlogger</span></a
-														><a
-															href="https://twitter.com/RealMadBlogger"
-															class="btn follow"
-															itemprop="sameAs"
-															>Follow</a
-														>
-													</div>
+													By:
+													<a
+														class="link-dark"
+														href="https://www.themadblogger.com"
+														>TheMadBlogger</a
+													>
+													<a
+														href="https://twitter.com/RealMadBlogger"
+														class="btn follow"
+														>Follow</a
+													>
 												</div>
 											</div>
 										</header>
@@ -309,7 +344,7 @@
 									<!-- End Featured Image -->
 
 									<!-- Post Content -->
-									<div class="article-post">
+									<div class="article-post" itemprop="articleBody">
 										<!-- Toc if any -->
 
 										<!-- End Toc -->
@@ -364,6 +399,9 @@
 										<div class="row post-top-meta">
 											<div
 												class="col-xs-12 col-md-12 col-lg-12 text-center text-md-left"
+												itemscope
+												itemprop="author"
+												itemtype="https://schema.org/Person"
 											>
 												<h3>About the Author:</h3>
 												<div
@@ -377,18 +415,15 @@
 												</div>
 												<div
 													class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left"
-													itemprop="author"
-													itemtype="https://schema.org/Person"
 												>
 													<a
 														class="link-dark"
 														href="https://www.themadblogger.com"
-														itemprop="sameAs"
-														><span itemprop="name">TheMadBlogger</span></a
+														itemprop="url"
+														><div itemprop="name">TheMadBlogger</div></a
 													><a
 														href="https://twitter.com/RealMadBlogger"
 														class="btn follow"
-														itemprop="sameAs"
 														>Follow</a
 													>
 												</div>
@@ -501,11 +536,7 @@
 
 					<!--End Comments
 ================================================== -->
-
-					<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
-https://search.google.com/structured-data/testing-tool/u/0/
-================================================== -->
-				</div>
+				</main>
 			</div>
 
 			<!-- Categories Jumbotron

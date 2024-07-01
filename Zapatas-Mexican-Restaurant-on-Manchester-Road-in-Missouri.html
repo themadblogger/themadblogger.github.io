@@ -80,6 +80,47 @@
 		<link href="/assets/css/main.css" rel="stylesheet" />
 
 		<script src="/assets/js/jquery.min.js"></script>
+
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "BlogPosting",
+				"url": "https://www.themadblogger.com/Zapatas-Mexican-Restaurant-on-Manchester-Road-in-Missouri",
+				"name": "Zapatas Mexican Restaurant on Manchester Road in Missouri",
+				"headline": "Zapatas Mexican Restaurant on Manchester Road in Missouri",
+				"keywords": "",
+				"description": "",
+				"articleBody": "If you’re looking for some good Mexican food, DON’T go to Zapatas on Manchester Road!\n\nThe Mad Blogger went w/ the office the day they opened, for lunch, to give them a shot. The food was horrible, no one enjoyed their meals. TMB figured, maybe, just maybe, that was just a bad day to go, the first day a place is open.\n\nSo, a month later, TMB tried it again. TMB and Family went there for dinner. It was STILL HORRIBLE. The food is just very low quality, high prices and the chips both times tasted burnt.\n\nSo, if you are looking for a restaurant on Manchester road for some good Mexican, TMB suggests trying one of the other places on Manchester Road. Senor Pique’s (sp?) down near Sulpher Springs Road is a good start, TMB’s eaten there on many occasions and it’s been great food and service.\n\nDon’t eat at Zapata’s, trust The Mad Blogger!\n",
+				"datePublished": "2006-08-28 00:00:00 +0000",
+				"dateModified": "2006-08-28 00:00:00 +0000",
+
+				"author": {
+					"@type": "Person",
+					"name": "TheMadBlogger",
+					"givenName": null,
+					"familyName": null,
+					"email": "TheMadBlogger@christoc.com",
+					"url": "https://www.themadblogger.com"
+				},
+
+				"publisher": {
+					"@type": "Organization",
+					"name": "TheMadBlogger.com",
+					"url": "https://www.themadblogger.com",
+					"logo": {
+						"@type": "ImageObject",
+						"width": 32,
+						"height": 32,
+						"url": "https://www.themadblogger.com//assets/images/favicon.ico"
+					}
+				},
+				"mainEntityOfPage": {
+					"@type": "WebPage",
+					"@id": "https://www.themadblogger.com//Zapatas-Mexican-Restaurant-on-Manchester-Road-in-Missouri"
+				},
+				"image": ["https://www.themadblogger.com"]
+			}
+		</script>
 	</head>
 
 	<body class="layout-post">
@@ -105,7 +146,7 @@
 			<div class="container pr-0">
 				<!-- Begin Logo -->
 				<a class="navbar-brand" href="/">
-					<img src="/assets/images/madblogger.jpg" alt="TheMadBlogger.com" />
+					<img src="//assets/images/madblogger.jpg" alt="TheMadBlogger.com" />
 				</a>
 				<!-- End Logo -->
 
@@ -131,6 +172,14 @@
 
 						<li class="nav-item">
 							<a class="nav-link" href="/about">About</a>
+						</li>
+
+						<li class="nav-item">
+							<a
+								class="nav-link"
+								href="https://github.com/ChrisHammond/jekyllexample.github.io"
+								>Github</a
+							>
 						</li>
 
 						<script src="/assets/js/lunr.js"></script>
@@ -186,20 +235,9 @@
 
 		<div class="site-content">
 			<div class="container">
-				<!-- Site Title
-================================================== -->
-				<!--
-<div class="mainheading">
-    <h1 class="sitetitle">TheMadBlogger.com</h1>
-    <p class="lead">
-         Internet's premier location for being torn down. You likely upset me!
-    </p>
-</div>
--->
-
 				<!-- Content
 ================================================== -->
-				<div class="main-content">
+				<main class="main-content">
 					<!-- Begin Article
 ================================================== -->
 					<div class="container">
@@ -283,20 +321,17 @@
 												<div
 													class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left"
 												>
-													<div itemtype="https://schema.org/Person">
-														By:
-														<a
-															class="link-dark"
-															href="https://www.themadblogger.com"
-															itemprop="sameAs"
-															><span itemprop="name">TheMadBlogger</span></a
-														><a
-															href="https://twitter.com/RealMadBlogger"
-															class="btn follow"
-															itemprop="sameAs"
-															>Follow</a
-														>
-													</div>
+													By:
+													<a
+														class="link-dark"
+														href="https://www.themadblogger.com"
+														>TheMadBlogger</a
+													>
+													<a
+														href="https://twitter.com/RealMadBlogger"
+														class="btn follow"
+														>Follow</a
+													>
 												</div>
 											</div>
 										</header>
@@ -311,7 +346,7 @@
 									<!-- End Featured Image -->
 
 									<!-- Post Content -->
-									<div class="article-post">
+									<div class="article-post" itemprop="articleBody">
 										<!-- Toc if any -->
 
 										<!-- End Toc -->
@@ -355,6 +390,9 @@
 										<div class="row post-top-meta">
 											<div
 												class="col-xs-12 col-md-12 col-lg-12 text-center text-md-left"
+												itemscope
+												itemprop="author"
+												itemtype="https://schema.org/Person"
 											>
 												<h3>About the Author:</h3>
 												<div
@@ -368,18 +406,15 @@
 												</div>
 												<div
 													class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left"
-													itemprop="author"
-													itemtype="https://schema.org/Person"
 												>
 													<a
 														class="link-dark"
 														href="https://www.themadblogger.com"
-														itemprop="sameAs"
-														><span itemprop="name">TheMadBlogger</span></a
+														itemprop="url"
+														><div itemprop="name">TheMadBlogger</div></a
 													><a
 														href="https://twitter.com/RealMadBlogger"
 														class="btn follow"
-														itemprop="sameAs"
 														>Follow</a
 													>
 												</div>
@@ -478,11 +513,7 @@
 
 					<!--End Comments
 ================================================== -->
-
-					<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
-https://search.google.com/structured-data/testing-tool/u/0/
-================================================== -->
-				</div>
+				</main>
 			</div>
 
 			<!-- Categories Jumbotron

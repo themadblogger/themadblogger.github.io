@@ -83,6 +83,49 @@
 		<link href="/assets/css/main.css" rel="stylesheet" />
 
 		<script src="/assets/js/jquery.min.js"></script>
+
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "BlogPosting",
+				"url": "https://www.themadblogger.com/wildwood-missouri-movie-theater/",
+				"name": "Movie Theater in Wildwood, Missouri",
+				"headline": "Movie Theater in Wildwood, Missouri",
+				"keywords": "",
+				"description": "If you're looking for a movie theater in Wildwood, Missouri, we recommend you visit somewhere other than B&B Theatres.",
+				"articleBody": "Update\nAfter 1 month, we finally got B&amp;B Theaters to process a proper refund. Unsure if we will ever go back.\n\nUpdate 2\nTMB has been back to B&amp;B Theaters in Wildwood, but isn’t usually happy about it. Often times you walk in and it’s smokey from the burnt popcorn….\n\nOriginal Post\n\nThere is one movie theater in Wildwood Missouri, and based on poor customer service experiences with B&amp;B Theaters in Wildwood, it is not our recommendation that you patronize their theater.\n\nIf you purchase tickets for a movie online, you will be charged a service fee. If that movie is for some reason cancelled, they will:\n\n  Not inform you ahead of time.\n  Not refund you the full price you paid for the tickets and the service fee.\n\n\nGood luck getting B&amp;B Theaters to respond to you either. While they might actually respond to a “review” posted on Google Maps ratings, they won’t go any further than that.\n\nPlease check out one of these theaters close to Wildwood:\n\n[AMC Chesterfield 14 located in the Chesterfield Mall (CLOSED)]\n\nMarcus Theaters in Chesterfield, Missouri\n\nWhenever you walk into the B&amp;B Theaters in Wildwood, Missouri you are just about guaranteed to walk into a smokey (burnt popcorn) room with very poor customer service being provided.\n\nPlease avoid the B&amp;B Theaters in Wildwood, they will just steal your money.\n\nTheft from B&amp;B Theaters in Wildwood, Missouri\nWe finally got someone to respond to us on Twitter after reaching out to B&amp;B Theaters, and they replied that they will not refund the transaction fees. So ultimately the theater sold tickets to provide a service, cancelled the showing of the movie, and then will not refund the full amount charged.\n",
+				"datePublished": "2022-01-13 15:00:09 +0000",
+				"dateModified": "2022-01-13 15:00:09 +0000",
+
+				"author": {
+					"@type": "Person",
+					"name": "TheMadBlogger",
+					"givenName": null,
+					"familyName": null,
+					"email": "TheMadBlogger@christoc.com",
+					"url": "https://www.themadblogger.com"
+				},
+
+				"publisher": {
+					"@type": "Organization",
+					"name": "TheMadBlogger.com",
+					"url": "https://www.themadblogger.com",
+					"logo": {
+						"@type": "ImageObject",
+						"width": 32,
+						"height": 32,
+						"url": "https://www.themadblogger.com//assets/images/favicon.ico"
+					}
+				},
+				"mainEntityOfPage": {
+					"@type": "WebPage",
+					"@id": "https://www.themadblogger.com//wildwood-missouri-movie-theater/"
+				},
+				"image": [
+					"https://www.themadblogger.com/assets/images_out/MovieTheater-1-1600-5eea67609.jpg"
+				]
+			}
+		</script>
 	</head>
 
 	<body class="layout-post">
@@ -108,7 +151,7 @@
 			<div class="container pr-0">
 				<!-- Begin Logo -->
 				<a class="navbar-brand" href="/">
-					<img src="/assets/images/madblogger.jpg" alt="TheMadBlogger.com" />
+					<img src="//assets/images/madblogger.jpg" alt="TheMadBlogger.com" />
 				</a>
 				<!-- End Logo -->
 
@@ -134,6 +177,14 @@
 
 						<li class="nav-item">
 							<a class="nav-link" href="/about">About</a>
+						</li>
+
+						<li class="nav-item">
+							<a
+								class="nav-link"
+								href="https://github.com/ChrisHammond/jekyllexample.github.io"
+								>Github</a
+							>
 						</li>
 
 						<script src="/assets/js/lunr.js"></script>
@@ -189,20 +240,9 @@
 
 		<div class="site-content">
 			<div class="container">
-				<!-- Site Title
-================================================== -->
-				<!--
-<div class="mainheading">
-    <h1 class="sitetitle">TheMadBlogger.com</h1>
-    <p class="lead">
-         Internet's premier location for being torn down. You likely upset me!
-    </p>
-</div>
--->
-
 				<!-- Content
 ================================================== -->
-				<div class="main-content">
+				<main class="main-content">
 					<!-- Begin Article
 ================================================== -->
 					<div class="container">
@@ -285,20 +325,17 @@
 												<div
 													class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left"
 												>
-													<div itemtype="https://schema.org/Person">
-														By:
-														<a
-															class="link-dark"
-															href="https://www.themadblogger.com"
-															itemprop="sameAs"
-															><span itemprop="name">TheMadBlogger</span></a
-														><a
-															href="https://twitter.com/RealMadBlogger"
-															class="btn follow"
-															itemprop="sameAs"
-															>Follow</a
-														>
-													</div>
+													By:
+													<a
+														class="link-dark"
+														href="https://www.themadblogger.com"
+														>TheMadBlogger</a
+													>
+													<a
+														href="https://twitter.com/RealMadBlogger"
+														class="btn follow"
+														>Follow</a
+													>
 												</div>
 											</div>
 										</header>
@@ -312,6 +349,7 @@
 
 									<img
 										class="featured-image img-fluid lazyimg"
+										itemprop="image"
 										src="/assets/images_out/MovieTheater-1-800-5eea67609.jpg"
 										alt="Movie Theater in Wildwood, Missouri"
 										srcset="
@@ -326,7 +364,7 @@
 									<!-- End Featured Image -->
 
 									<!-- Post Content -->
-									<div class="article-post">
+									<div class="article-post" itemprop="articleBody">
 										<!-- Toc if any -->
 
 										<!-- End Toc -->
@@ -423,6 +461,9 @@
 										<div class="row post-top-meta">
 											<div
 												class="col-xs-12 col-md-12 col-lg-12 text-center text-md-left"
+												itemscope
+												itemprop="author"
+												itemtype="https://schema.org/Person"
 											>
 												<h3>About the Author:</h3>
 												<div
@@ -436,18 +477,15 @@
 												</div>
 												<div
 													class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left"
-													itemprop="author"
-													itemtype="https://schema.org/Person"
 												>
 													<a
 														class="link-dark"
 														href="https://www.themadblogger.com"
-														itemprop="sameAs"
-														><span itemprop="name">TheMadBlogger</span></a
+														itemprop="url"
+														><div itemprop="name">TheMadBlogger</div></a
 													><a
 														href="https://twitter.com/RealMadBlogger"
 														class="btn follow"
-														itemprop="sameAs"
 														>Follow</a
 													>
 												</div>
@@ -569,11 +607,7 @@
 
 					<!--End Comments
 ================================================== -->
-
-					<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
-https://search.google.com/structured-data/testing-tool/u/0/
-================================================== -->
-				</div>
+				</main>
 			</div>
 
 			<!-- Categories Jumbotron
