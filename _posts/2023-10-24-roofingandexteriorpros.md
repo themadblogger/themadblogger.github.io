@@ -2,6 +2,7 @@
 layout: post
 title: Roofing and Exterior Pros in Ellisville, Missouri
 date: '2023-10-24T18:00:00+00:00'
+last_modified_at: '2024-05-20T08:05:00+00:00'
 description: "Buyer beware when dealing with these guys! They might beat you up"
 keywords: "bad, roofing, roof, storm, damage, repair, violence, st. louis"
 permalink: roofingandexteriorpros
