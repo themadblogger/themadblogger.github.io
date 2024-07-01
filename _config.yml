@@ -3,7 +3,7 @@
 name: "TheMadBlogger.com"
 title: "TheMadBlogger.com"
 description: " Internet's premier location for being torn down. You likely upset me!"
-logo: /assets/images/madblogger.jpg
+logo: assets/images/madblogger.jpg
 favicon: '/assets/images/favicon.ico'
 url: https://www.themadblogger.com
 baseurl: ""
