@@ -6,6 +6,13 @@ presets:
     widths: [200, 400, 800, 1600, 2000]
     link_source: false
 
+  featured:
+    formats: [original]
+    widths: [200, 400, 800, 1600, 2000]
+    link_source: false
+    attr:
+      itemprop: image
+
   direct:
     markup: direct_url
     formats: [original]
